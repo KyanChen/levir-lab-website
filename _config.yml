@@ -1,7 +1,8 @@
 name: "LEVIR Lab"
 description: "This is the official webpage for the LEVIR Lab directed by Prof. Zhenwei Shi at Beihang University."
 
-url: "https://kyanchen.github.io/levir/"
+url: "file:///Users/kyanchen/codes/levir-lab/_site/"
+baseurl: https://kyanchen.github.io/levir/
 
 paginate: 5
 plugins: [jekyll-paginate]

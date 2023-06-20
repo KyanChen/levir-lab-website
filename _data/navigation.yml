@@ -1,5 +1,5 @@
 - name: Home
-  link: "/"
+  link: "{{ site.baseurl }}/"
   group: home
 
 - name: Research
