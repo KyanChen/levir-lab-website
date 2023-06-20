@@ -1,0 +1,8 @@
+@InProceedings{Zhao_2023_CVPR,
+    author    = {Zhao, Rui and Li, Wei and Hu, Zhipeng and Li, Lincheng and Zou, Zhengxia and Shi, Zhenwei and Fan, Changjie},
+    title     = {Zero-Shot Text-to-Parameter Translation for Game Character Auto-Creation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {21013-21023}
+}

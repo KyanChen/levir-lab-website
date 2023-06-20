@@ -1,0 +1,101 @@
+---
+title: Publications from the LEVIR Lab
+layout: default
+group: publications
+---
+
+<h1>Publications</h1>
+<br>
+<div class="container-fluid">
+
+	{% assign sorted = site.publications | sort: "pub_date" | reverse %}
+	{% assign idx = 0 %}
+	{% assign pub_year_old = -1 %}
+	{{ pub_year }}
+	{% for publication in sorted %}
+	{% assign idx = idx | plus: 1 %}
+
+	{% assign pub_year = publication.pub_date | split: "-" | first %}
+	{% if pub_year != pub_year_old %}
+	{% assign pub_year_old = pub_year %}
+	<h1 style="margin: 0; text-indent: -14px">In {{pub_year}}</h1>
+	<br>
+	{% endif %}
+
+
+	<div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}">
+		<div>
+			<h5>{{idx}}. {{ publication.title | markdownify  | remove: '<p>' | remove: '</p>'}}</h5>
+			<h6>{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
+			{% if publication.journal %}
+			<i>{{ publication.journal }},</i>
+			{{publication.pub_date | split: "-" | first }}
+			{% else %}
+			{% if publication.biorxiv %}
+			<i>Biorxiv,</i>
+			{{publication.biorxiv | split: "." | first }}
+			{% elsif publication.biorxiv_version %}
+			<i>Biorxiv,</i>
+			{{publication.biorxiv_version | split: "." | first }}
+			{% else %}
+			<i>Preprint,</i>
+			{{publication.pub_date | split: "-" | first }}
+			{% endif %}
+			{% endif %}
+		</div>
+	</div>
+
+	<div class="row" style="padding-top: 20px; margin-top: -20px">
+		<!--pdf-->
+		{% if publication.pdf %}
+		<a href="{{publication.pdf}}" title = "PDF: (opens in new tab)" target="_blank"> [PDF]</a>
+		&CenterDot;
+		{% endif %}
+
+		<!--paper-->
+		{% if publication.paper %}
+		<a href="{{publication.paper}}" title = "Paper: {{publication.paper}} (opens in new tab)" target="_blank"> [Paper]</a>
+		&CenterDot;
+		{% endif %}
+
+		<!--arxiv-->
+		{% if publication.arxiv %}
+		<a href="{{publication.arxiv}}" title = "Arxiv: {{publication.arxiv}} (opens in new tab)" target="_blank"> [Arxiv]</a>
+		&CenterDot;
+		{% endif %}
+
+		<!--code-->
+		{% if publication.code %}
+		<a href="{{publication.code}}" title = "Code: {{publication.code}} (opens in new tab)" target="_blank"> [Code]</a>
+		&CenterDot;
+		{% endif %}
+
+		<!--page-->
+		{% if publication.page %}
+		<a href="{{publication.page}}" title = "Data: {{publication.page}} (opens in new tab)" target="_blank"> [Page]</a>
+		&CenterDot;
+		{% endif %}
+
+		<!--demo-->
+		{% if publication.demo %}
+		<a href="{{publication.demo}}" title = "Demo: {{publication.demo}} (opens in new tab)" target="_blank"> [Demo]</a>
+		&CenterDot;
+		{% endif %}
+
+		<!--data-->
+		{% if publication.data %}
+		<a href="{{publication.data}}" title = "Data: {{publication.data}} (opens in new tab)" target="_blank"> [Data]</a>
+		&CenterDot;
+		{% endif %}
+
+		<!--bibtex-->
+		{% if publication.bibtex %}
+		<a href="{{publication.bibtex}}" title = "Bibtex: {{publication.bibtex}} (opens in new tab)" target="_blank"> [Bibtex]</a>
+		&CenterDot;
+		{% endif %}
+	</div>
+
+	<hr>
+	<br>
+	{% endfor %}
+</div>

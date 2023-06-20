@@ -1,0 +1,31 @@
+- name: Home
+  link: "/"
+  group: home
+
+- name: Research
+  link: "/research"
+  group: research
+
+- name: Publications
+  link: "/publications"
+  group: publications
+
+- name: Members
+  link: "/members"
+  group: members
+
+- name: News
+  link: "/news"
+  group: news
+
+- name: Join
+  link: "/join"
+  group: join
+
+- name: Contact
+  link: "/contact"
+  group: contact
+
+- name: Album
+  link: "/album"
+  group: album

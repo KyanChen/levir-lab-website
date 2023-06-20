@@ -1,0 +1,9 @@
+@ARTICLE{10092830,
+  author={Wang, Chenxu and Zhao, Danpei and Qi, Xinhu and Liu, Zhuoran and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={A Hierarchical Decoder Architecture for Multilevel Fine-Grained Disaster Detection},
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-14},
+  doi={10.1109/TGRS.2023.3264811}}

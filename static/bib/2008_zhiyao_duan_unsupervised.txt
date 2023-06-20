@@ -1,0 +1,9 @@
+@ARTICLE{4469889,
+  author={Duan, Zhiyao and Zhang, Yungang and Zhang, Changshui and Shi, Zhenwei},
+  journal={IEEE Transactions on Audio, Speech, and Language Processing},
+  title={Unsupervised Single-Channel Music Source Separation by Average Harmonic Structure Modeling},
+  year={2008},
+  volume={16},
+  number={4},
+  pages={766-778},
+  doi={10.1109/TASL.2008.919073}}

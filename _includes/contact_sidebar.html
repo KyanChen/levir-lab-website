@@ -1,0 +1,26 @@
+<h3>Contact Us</h3>
+<p>
+    ZhenWei Shi (史振威), Ph.D.
+    <br>
+    Professor, 国家杰青
+    <br>
+    <br>
+    Image Processing Center, School of Astronautics, Beihang University, Beijing 100191, P.R. China
+    <br>
+    email: shizhenwei@buaa.edu.cn
+</p>
+
+<!--<b>Open positions are listed on our <a href="{{ site.url }}/join">Join</a> page.</b><br>-->
+<!-- <br>-->
+<!-- We welcome applicants from <b>all</b> backgrounds.<br>-->
+
+<!--<p>-->
+<!-- <h3> Read our <a href="{{ site.url }}/philosophy/">lab compact and philosophy</a></h3>-->
+<!--</p>-->
+
+<hr>
+
+<h3> What's New</h3>
+{% assign sorted = site.news | sort: "title" | reverse %}
+{% assign post = sorted.first %}
+{{post.content}}

@@ -1,0 +1,15 @@
+@article{SHI20071574,
+title = {Semi-blind source extraction for fetal electrocardiogram extraction by combining non-Gaussianity and time-correlation},
+journal = {Neurocomputing},
+volume = {70},
+number = {7},
+pages = {1574-1581},
+year = {2007},
+note = {Advances in Computational Intelligence and Learning},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2006.10.103},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231206004425},
+author = {Zhenwei Shi and Changshui Zhang},
+keywords = {Blind signal extraction (BSE), Blind source separation (BSS), Independent component analysis (ICA), Fetal electrocardiogram (FECG)},
+abstract = {Fetal electrocardiogram (FECG) extraction is a vital issue in biomedical signal processing and analysis. A promising approach is blind (semi-blind) source extraction. In this paper, we develop an objective function for extraction of temporally correlated sources. The objective function is based on the non-Gaussianity and the autocorrelations of source signals, and it contains the well-known mean squared error objective function presented by Barros and Cichocki [Extraction of specific signals with temporal structure, Neural Comput. 13(9) (2001) 1995–2003] as a special example. Minimizing the objective function, we propose a source extraction algorithm. The algorithm extracts the clearer FECG as the first extracted signal and is very robust to the estimated error of time delay. It means that the algorithm is an appealing method which obtains an accurate and reliable FECG.}
+}

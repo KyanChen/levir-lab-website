@@ -1,0 +1,9 @@
+@ARTICLE{10056331,
+  author={Zhao, Danpei and Chen, Ziqiang and Gao, Yue and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Classification Matters More: Global Instance Contrast for Fine-Grained SAR Aircraft Detection},
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-15},
+  doi={10.1109/TGRS.2023.3250507}}

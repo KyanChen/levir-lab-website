@@ -1,0 +1,15 @@
+@article{SHI20081082,
+title = {MACBSE: Extracting signals with linear autocorrelations},
+journal = {Neurocomputing},
+volume = {71},
+number = {4},
+pages = {1082-1091},
+year = {2008},
+note = {Neural Networks: Algorithms and Applications 50 Years of Artificial Intelligence: a Neuronal Approach},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2007.09.004},
+url = {https://www.sciencedirect.com/science/article/pii/S092523120700313X},
+author = {Zhenwei Shi and Dan Zhang and Changshui Zhang},
+keywords = {Blind source separation (BSS), Independent component analysis (ICA), Blind source extraction (BSE), Temporally correlated source},
+abstract = {This paper proposes blind source extraction methods based on several time-delay autocorrelations of primary sources, called MACBSE. The MACBSE approaches are batch fixed-point learning algorithms for extraction of source signals with linear autocorrelations. The fixed-point algorithms are very simple and do not need to choose any learning step sizes. Furthermore, the convergence properties of the algorithms are analyzed. Their efficiencies are demonstrated by extensive computer simulations.}
+}

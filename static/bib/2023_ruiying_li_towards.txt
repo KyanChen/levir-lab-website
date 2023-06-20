@@ -1,0 +1,9 @@
+@ARTICLE{10105144,
+  author={Li, Ruiying and Pan, Bin and Xu, Xia and Li, Tao and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Toward Convergence: A Gradient-Based Multiobjective Method With Greedy Hash for Hyperspectral Unmixing},
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-14},
+  doi={10.1109/TGRS.2023.3267080}}

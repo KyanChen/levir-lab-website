@@ -1,0 +1,15 @@
+@article{SHI2007406,
+title = {Nonlinear innovation to blind source separation},
+journal = {Neurocomputing},
+volume = {71},
+number = {1},
+pages = {406-410},
+year = {2007},
+note = {Dedicated Hardware Architectures for Intelligent Systems Advances on Neural Networks for Speech and Audio Processing},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2007.08.007},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231207002767},
+author = {Zhenwei Shi and Changshui Zhang},
+keywords = {Blind source separation (BSS), Independent component analysis (ICA), Linear predictability, Nonlinear predictability, Nonstationarity},
+abstract = {This letter proposes a blind source separation (BSS) method based on the nonlinear innovation of original sources. A simple algorithm is presented by minimizing a loss function of the nonlinear innovation. The method exploits the nonstationarity of sources in the sense that the variance of each source signal can be assumed to change smoothly as a function of time. Simulations verify the efficient implementation of the proposed method, especially its robustness to the outliers.}
+}

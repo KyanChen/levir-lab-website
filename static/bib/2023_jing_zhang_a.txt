@@ -1,0 +1,9 @@
+@ARTICLE{10002367,
+  author={Zhang, Jing and Liu, Liqin and Zhao, Rui and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={A Bayesian Meta-Learning-Based Method for Few-Shot Hyperspectral Image Classification},
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-13},
+  doi={10.1109/TGRS.2022.3232784}}

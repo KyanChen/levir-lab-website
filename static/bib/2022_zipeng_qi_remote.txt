@@ -1,0 +1,9 @@
+@ARTICLE{9975200,
+  author={Qi, Zipeng and Zou, Zhengxia and Chen, Hao and Shi, Zhenwei},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  title={Remote-Sensing Image Segmentation Based on Implicit 3-D Scene Representation},
+  year={2022},
+  volume={19},
+  number={},
+  pages={1-5},
+  doi={10.1109/LGRS.2022.3227392}}

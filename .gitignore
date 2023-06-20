@@ -1,0 +1,10 @@
+_site/
+.bundle/
+.DS_Store
+Gemfile.lock
+vendor/
+.ipynb_checkpoints/
+_tools/content
+_tools/extra
+to_finish/
+to_finish.zip

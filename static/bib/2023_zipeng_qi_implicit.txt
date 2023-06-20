@@ -1,0 +1,9 @@
+@ARTICLE{10149540,
+  author={Qi, Zipeng and Chen, Hao and Liu, Chenyang and Shi, Zhenwei and Zou, Zhengxia},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Implicit Ray-Transformers for Multi-view Remote Sensing Image Segmentation},
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TGRS.2023.3285659}}

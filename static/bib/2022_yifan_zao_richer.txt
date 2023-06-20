@@ -1,0 +1,9 @@
+@ARTICLE{9440660,
+  author={Zao, Yifan and Shi, Zhenwei},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  title={Richer U-Net: Learning More Details for Road Detection in Remote Sensing Images},
+  year={2022},
+  volume={19},
+  number={},
+  pages={1-5},
+  doi={10.1109/LGRS.2021.3081774}}

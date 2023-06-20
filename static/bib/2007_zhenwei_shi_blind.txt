@@ -1,0 +1,9 @@
+@ARTICLE{4298132,
+  author={Shi, Zhenwei and Zhang, Changshui},
+  journal={IEEE Transactions on Neural Networks},
+  title={Blind Source Extraction Using Generalized Autocorrelations},
+  year={2007},
+  volume={18},
+  number={5},
+  pages={1516-1524},
+  doi={10.1109/TNN.2007.895823}}

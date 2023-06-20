@@ -1,0 +1,9 @@
+@article{zhang2008blind,
+  title={Blind source extraction for noisy mixtures by combining Gaussian moments and generalized autocorrelations},
+  author={Zhang, Hongjuan and Shi, Zhenwei and Guo, Chonghui and Feng, Enmin},
+  journal={Neural processing letters},
+  volume={28},
+  pages={209--225},
+  year={2008},
+  publisher={Springer}
+}

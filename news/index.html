@@ -1,0 +1,14 @@
+---
+title: News from the LEVIR Lab
+layout: news
+group: news
+---
+
+{% assign sorted = site.news | sort: "title" | reverse %}
+{% for post in sorted %}
+<hr>
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<div class="content">
+  {{ post.content }}
+</div>
+{% endfor %}

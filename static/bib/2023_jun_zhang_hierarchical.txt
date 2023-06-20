@@ -1,0 +1,9 @@
+@ARTICLE{9975836,
+  author={Zhang, Jun and Li, Simin and Dong, Yongfeng and Pan, Bin and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Hierarchical Similarity Alignment for Domain Adaptive Ship Detection in SAR Images},
+  year={2022},
+  volume={60},
+  number={},
+  pages={1-11},
+  doi={10.1109/TGRS.2022.3227626}}

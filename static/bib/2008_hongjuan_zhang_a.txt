@@ -1,0 +1,14 @@
+@article{ZHANG2008548,
+title = {A new constrained fixed-point algorithm for ordering independent components},
+journal = {Journal of Computational and Applied Mathematics},
+volume = {220},
+number = {1},
+pages = {548-558},
+year = {2008},
+issn = {0377-0427},
+doi = {https://doi.org/10.1016/j.cam.2007.09.010},
+url = {https://www.sciencedirect.com/science/article/pii/S0377042707004852},
+author = {Hongjuan Zhang and Chonghui Guo and Zhenwei Shi and Enmin Feng},
+keywords = {Independent component analysis, Constrained independent component analysis, Lagrange multiplier method, Fixed-point algorithm},
+abstract = {Independent component analysis (ICA) aims to recover a set of unknown mutually independent components (ICs) from their observed mixtures without knowledge of the mixing coefficients. In the classical ICA model there exists ICs’ indeterminacy on permutation and dilation. Constrained ICA is one of methods for solving this problem through introducing constraints into the classical ICA model. In this paper we first present a new constrained ICA model which composed of three parts: a maximum likelihood criterion as an objective function, statistical measures as inequality constraints and the normalization of demixing matrix as equality constraints. Next, we incorporate the new fixed-point (newFP) algorithm into this constrained ICA model to construct a new constrained fixed-point algorithm. Computation simulations on synthesized signals and speech signals demonstrate that this combination both can eliminate ICs’ indeterminacy to a certain extent, and can provide better performance. Moreover, comparison results with the existing algorithm verify the efficiency of our new algorithm furthermore, and show that it is more simple to implement than the existing algorithm due to its advantage of not using the learning rate. Finally, this new algorithm is also applied for the real-world fetal ECG data, experiment results further indicate the efficiency of the new constrained fixed-point algorithm.}
+}

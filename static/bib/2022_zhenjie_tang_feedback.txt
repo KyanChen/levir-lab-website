@@ -1,0 +1,13 @@
+@Article{rs14081944,
+AUTHOR = {Tang, Zhenjie and Xu, Qing and Wu, Pengfei and Shi, Zhenwei and Pan, Bin},
+TITLE = {Feedback Refined Local-Global Network for Super-Resolution of Hyperspectral Imagery},
+JOURNAL = {Remote Sensing},
+VOLUME = {14},
+YEAR = {2022},
+NUMBER = {8},
+ARTICLE-NUMBER = {1944},
+URL = {https://www.mdpi.com/2072-4292/14/8/1944},
+ISSN = {2072-4292},
+ABSTRACT = {Powered by advanced deep-learning technology, multi-spectral image super-resolution methods based on convolutional neural networks have recently achieved great progress. However, the single hyperspectral image super-resolution remains a challenging problem due to the high-dimensional and complex spectral characteristics of hyperspectral data, which make it difficult for general 2D convolutional neural networks to simultaneously capture spatial and spectral prior information. To deal with this issue, we propose a novel Feedback Refined Local-Global Network (FRLGN) for the super-resolution of hyperspectral image. To be specific, we develop a new Feedback Structure and a Local-Global Spectral block to alleviate the difficulty in spatial and spectral feature extraction. The Feedback Structure can transfer the high-level information to guide the generation process of low-level features, which is achieved by a recurrent structure with finite unfoldings. Furthermore, in order to effectively use the high-level information passed back, a Local-Global Spectral block is constructed to handle the feedback connections. The Local-Global Spectral block utilizes the feedback high-level information to correct the low-level feature from local spectral bands and generates powerful high-level representations among global spectral bands. By incorporating the Feedback Structure and Local-Global Spectral block, the FRLGN can fully exploit spatial-spectral correlations among spectral bands and gradually reconstruct high-resolution hyperspectral images. Experimental results indicate that FRLGN presents advantages on three public hyperspectral datasets.},
+DOI = {10.3390/rs14081944}
+}

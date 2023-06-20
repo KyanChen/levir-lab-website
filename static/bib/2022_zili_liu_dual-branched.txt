@@ -1,0 +1,9 @@
+@ARTICLE{9763359,
+  author={Liu, Zili and Hao, Kun and Geng, Xiaoyi and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  title={Dual-Branched Spatio-Temporal Fusion Network for Multihorizon Tropical Cyclone Track Forecast},
+  year={2022},
+  volume={15},
+  number={},
+  pages={3842-3852},
+  doi={10.1109/JSTARS.2022.3170299}}

@@ -1,0 +1,65 @@
+<br>
+<br>
+
+<h1>Lab Alumni</h1>
+
+<div class ="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-md-4 ">
+    {% assign sorted = site.members | sort: "enddate" | reverse %}
+    {% for member in sorted %}
+
+    {% if member.enddate == empty or member.startdate.size != member.enddate.size %}
+    {% continue %}
+    {% endif %}
+
+    <div class="col">
+        <hr>
+        <img class="img-fluid" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br>
+        <p>
+            <strong>{{member.name}}</strong>
+            <br>
+            <em>{{member.position | markdownify | remove: '<p>' | remove: '</p>' }}</em><br>
+        {% if member.pronouns %}
+        <em>{{member.pronouns}}</em> <br>
+        {% endif %}
+        {% assign start = member.startdate | first | date:"%Y" %}
+        {% assign end = member.enddate | last | date:"%Y" %}
+        {% if start == end %}
+        {{ start }}
+        <br>
+        {% else %}
+        {{ start }} - {{ end }}
+        <br>
+        {% endif %}
+        {% if member.subsequent %}
+        Subsequently: {{member.subsequent}}
+        <br>
+        {% endif %}
+        {% if member.email %}
+        <em>{{member.email}}</em>
+        <br>
+        {% endif %}
+        {% if member.website %}
+        <a style="overflow-wrap: break-word;" href= "{{member.website}}">{{member.website}}</a>
+        <br>
+        {% endif %}
+        {% if member.orcid %}
+        <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/orcid_logo.svg"></a>
+        <a href="http://orcid.org/{{member.orcid}}"> {{member.orcid}}</a>
+        <br>
+        {% endif %}
+        {% if member.scholar %}
+        <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
+        <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s Citations </a> <br>
+        {% endif %}
+        {% if member.twitter %}
+        <a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/logo/twitter_logo.svg"></a>
+        <a href= "http://twitter.com/{{member.twitter}}"> @{{member.twitter}} </a> <br>
+        {% endif %}
+        {% if member.github %}
+        <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/logo/github_logo.svg"></a>
+        <a href= "http://github.com/{{member.github}}"> {{member.github}} </a> <br>
+        {% endif %}
+        </p>
+    </div>
+    {% endfor %}
+</div>

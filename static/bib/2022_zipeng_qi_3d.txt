@@ -1,0 +1,12 @@
+@Article{rs14174333,
+AUTHOR = {Qi, Zipeng and Zou, Zhengxia and Chen, Hao and Shi, Zhenwei},
+TITLE = {3D Reconstruction of Remote Sensing Mountain Areas with TSDF-Based Neural Networks},
+JOURNAL = {Remote Sensing},
+VOLUME = {14},
+YEAR = {2022},
+NUMBER = {17},
+ARTICLE-NUMBER = {4333},
+URL = {https://www.mdpi.com/2072-4292/14/17/4333},
+ISSN = {2072-4292},
+DOI = {10.3390/rs14174333}
+}

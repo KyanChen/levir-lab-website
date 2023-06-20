@@ -1,0 +1,250 @@
+---
+title: LEVIR Lab Members
+layout: members
+group: members
+---
+
+<h1>LEVIR Lab Members</h1>
+
+The LEVIR lab welcomes people of any race, ethnicity, religion, national origin, gender identity, and eligible age or disability status.
+<hr>
+<br>
+<br>
+<h1>
+    Principal Researchers
+</h1>
+{% assign sorted = site.members | sort: "startdate" %}
+{% for member in sorted %}
+
+{% unless member.enddate == empty or member.startdate.size != member.enddate.size %}
+{% continue %}
+{% endunless %}
+
+{% if member.position contains "Student" or member.position contains "Visiting" %}
+{% continue %}
+{% endif %}
+<br>
+<!-- The paddingtop and margin-top edits allow anchors to link properly. -->
+<div id = "{{member.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-3">
+        <img class="img-fluid" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br>
+        <strong>{{member.name}}</strong> <br>
+        {% if member.pronouns %}
+        <em>{{member.pronouns}}</em> <br>
+        {% endif %}
+        {{member.position | markdownify | remove: '<p>' | remove: '</p>' }} <br>
+        <em>{{member.email}}</em> <br>
+        {% if member.website %}
+        <a style="overflow-wrap: break-word;" href= "{{member.website}}">{{member.website}}</a> <br>
+        {% endif %}
+        {% if member.orcid %}
+        <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/orcid_logo.svg"></a>
+        <a href="http://orcid.org/{{member.orcid}}"> {{member.orcid}}</a> <br>
+        {% endif %}
+        {% if member.researchgate %}
+        <a href="http://researchgate.net"><img class="inline-block mem-icon" src="/static/img/logo/researchgate_logo.svg"></a>
+        <a href= "http://researchgate.net/profile/{{member.researchgate}}"> {{member.researchgate}} </a> <br>
+        {% endif %}
+        {% if member.dblp %}
+        <a href="http://dblp.org"><img class="inline-block mem-icon" src="/static/img/logo/dblp_logo.svg"></a>
+        <a href= "http://dblp.org/pid/{{member.dblp}}"> {{member.dblp}} </a> <br>
+        {% endif %}
+        {% if member.linkedin %}
+        <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
+        <a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>
+        {% endif %}
+        {% if member.beihang %}
+        <a href="https://ev.buaa.edu.cn/"><img class="inline-block mem-icon" src="/static/img/logo/beihang_black.png"></a>
+        <a href= "{{member.beihang}}"> Profile </a> <br>
+        {% endif %}
+        {% if member.scholar %}
+        <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
+        <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s Citations </a> <br>
+        {% endif %}
+        {% if member.twitter %}
+        <a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/logo/twitter_logo.svg"></a>
+        <a href= "http://twitter.com/{{member.twitter}}"> @{{member.twitter}} </a> <br>
+        {% endif %}
+        {% if member.github %}
+        <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/logo/github_logo.svg"></a>
+        <a href= "http://github.com/{{member.github}}"> {{member.github}} </a> <br>
+        {% endif %}
+    </div>
+    <div class="col-sm-9">
+        <div style="text-align: justify; text-justify: distribute-all-lines;">
+            {{member.description | markdownify}}
+        </div>
+    </div>
+</div>
+<hr>
+{% endfor %}
+
+<br>
+<br>
+<h1>Research Students</h1>
+
+
+{% assign sorted = site.members | sort: "startdate" %}
+{% for member in sorted %}
+
+
+{% unless member.enddate == empty or member.startdate.size != member.enddate.size%}
+{% continue %}
+{% endunless %}
+
+{% unless member.position contains "Ph.D. Student" or member.position contains "M.S. Student" %}
+{% continue %}
+{% endunless %}
+
+<br>
+<div id = "{{member.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-3">
+        <img class="img-fluid" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br>
+        <strong>{{member.name}}</strong> <br>
+        {% if member.pronouns %}
+        <em>{{member.pronouns}}</em> <br>
+        {% endif %}
+        {{member.position | markdownify | remove: '<p>' | remove: '</p>' }} <br>
+        <em>{{member.email}}</em> <br>
+        {% if member.website %}
+        <a style="overflow-wrap: break-word;" href= "{{member.website}}">{{member.website}}</a> <br>
+        {% endif %}
+        {% if member.orcid %}
+        <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/orcid_logo.svg"></a>
+        <a href="http://orcid.org/{{member.orcid}}"> {{member.orcid}}</a> <br>
+        {% endif %}
+        {% if member.researchgate %}
+        <a href="http://researchgate.net"><img class="inline-block mem-icon" src="/static/img/logo/researchgate_logo.svg"></a>
+        <a href= "http://researchgate.net/profile/{{member.researchgate}}"> {{member.researchgate}} </a> <br>
+        {% endif %}
+        {% if member.dblp %}
+        <a href="http://dblp.org"><img class="inline-block mem-icon" src="/static/img/logo/dblp_logo.svg"></a>
+        <a href= "http://dblp.org/pid/{{member.dblp}}"> {{member.dblp}} </a> <br>
+        {% endif %}
+        {% if member.linkedin %}
+        <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
+        <a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>
+        {% endif %}
+        {% if member.beihang %}
+        <a href="https://ev.buaa.edu.cn/"><img class="inline-block mem-icon" src="/static/img/logo/beihang_black.png"></a>
+        <a href= "{{member.beihang}}"> Profile </a> <br>
+        {% endif %}
+        {% if member.scholar %}
+        <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
+        <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> Scholar Citations </a> <br>
+        {% endif %}
+        {% if member.twitter %}
+        <a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/logo/twitter_logo.svg"></a>
+        <a href= "http://twitter.com/{{member.twitter}}"> @{{member.twitter}} </a> <br>
+        {% endif %}
+        {% if member.github %}
+        <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/logo/github_logo.svg"></a>
+        <a href= "http://github.com/{{member.github}}"> {{member.github}} </a> <br>
+        {% endif %}
+    </div>
+    <div class="col-sm-8">
+        <div style="text-align: justify; text-justify: distribute-all-lines;">
+            {{member.description | markdownify}}
+        </div>
+    </div>
+</div>
+<hr>
+{% endfor %}
+
+<br>
+<br>
+
+
+<div>
+    {% assign stretch = 60 %}
+    {% assign yheight = 16 %}
+    {% assign yspacing = 18 %}
+    {% assign fontsize = 10 %}
+    {% assign yearoffset = 2007 %}
+    {% assign majortick = 0.05 %}
+    {% assign minortick = 0.025 %}
+    {% assign legendboxsize = 20 %}
+    {% assign legendboxspacing = 24 %}
+    {% assign people = site.members | concat: site.alumni | sort: "startdate" %}
+    {% assign finalyear = "now" | date: "%Y" | plus: 1 %}
+    <?xml version="1.0" encoding="UTF-8" ?>
+    <svg width="100%" height="auto" viewBox="0 0 {{ finalyear | minus: yearoffset | plus: majortick | times: stretch }} {{ people.size | plus: 1 | times: yspacing | plus: 5 }}" xmlns="http://www.w3.org/2000/svg">
+        {% assign i = 0 %}
+        {% for year in (yearoffset..finalyear)%}
+        {% assign year5 = year | modulo: 5 %}
+        {% if year5 == 0 %}
+        {% assign tick = majortick %}
+        <text x="{{ fontsize | divided_by: 4.0 | divided_by: stretch | plus: tick | plus: year | minus: yearoffset | times: stretch }}" y="{{ i | times: yspacing | plus: fontsize }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">{{ year }}</text>
+        {% else %}
+        {% assign tick = minortick %}
+        {% endif %}
+        <rect x="{{ year | minus: yearoffset | times: stretch }}" y="0" width="{{ tick | times: stretch }}" height="{{ yheight }}" fill="black" />
+        {% endfor %}
+        {% assign i = i | plus: 1 %}
+        {% for member in people %}
+        {% assign tenures = member.startdate.size | minus: 1 %}
+        {% for tenure in (0..tenures) %}
+        {% assign startyear = member.startdate[tenure] | date: "%Y" | minus: yearoffset %}
+        {% assign startmonth = member.startdate[tenure] | date: "%m" | minus: 1 | divided_by: 12.0 %}
+        {% assign start = startyear | plus: startmonth %}
+        {% if member.enddate[tenure] %}
+        {% assign endyear = member.enddate[tenure] | date: "%Y" | minus: yearoffset %}
+        {% assign endmonth = member.enddate[tenure] | date: "%m" | minus: 1 | divided_by: 12.0 %}
+        {% assign end = endyear | plus: endmonth %}
+        {% else %}
+        {% assign endyear = "now" | date: "%Y" | minus: yearoffset %}
+        {% assign endmonth = "now" | date: "%m" | minus: 1 | divided_by: 12.0 %}
+        {% assign end = endyear | plus: endmonth %}
+        {% endif %}
+        {% assign duration = end | minus: start %}
+        {% if duration < 0.083 %} # For plotting purposes, minimum duration is a month
+        {% assign duration = 0.083 %}
+        {% endif %}
+        {% if member.timeline_group %} # Assign timeline color specifically from profile, otherwise from position
+        {% assign position = member.timeline_group | downcase %}
+        {% elsif member.timeline_positions %} # all search strings in following section must be lowercase or it will not find matches
+        {% assign position = member.timeline_positions[tenure] | downcase %}
+        {% else %}
+        {% assign position = member.position | downcase %}
+        {% endif %}
+        {% if position contains "director" %}
+        {% assign color = "red" %}
+        {% elsif position contains "principal researcher" %}
+        {% assign color = "darkorange" %}
+        {% elsif position contains "ph.d. student" %}
+        {% assign color = "gold" %}
+        {% elsif position contains "m.s. student" %}
+        {% assign color = "green" %}
+        {% else %}
+        {% assign color = "turquoise" %}
+        {% endif %}
+
+        <rect x="{{ start | times: stretch }}" y="{{ i | times: yspacing }}" width="{{ duration | times: stretch }}" height="{{ yheight }}" fill="{{ color }}" />
+        {% if tenure == 0 %}
+        <text text-anchor="end" x="{{ fontsize | divided_by: -4.0 | divided_by: stretch | plus: start | times: stretch }}" y="{{ i | times: yspacing | plus: fontsize }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">{% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}</text>
+        {% endif %}
+        {% endfor %}
+        {% assign i = i | plus: 1 %}
+        {% endfor %}
+
+        {% assign legendn = 5 %}
+        {% assign fontsize = 12 %}
+        {% assign xposition = 10 %}
+        {% assign yposition = i | times: yspacing %}
+        {% assign yposition = legendn | plus: 0.5 | times: legendboxspacing | times: -1 | plus: yposition %}
+        <rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="red" />
+        <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Director</text>
+        {% assign yposition = yposition | plus: legendboxspacing %}
+        <rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="darkorange" />
+        <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Principal Researcher</text>
+        {% assign yposition = yposition | plus: legendboxspacing %}
+        <rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="gold" />
+        <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Ph.D. Student</text>
+        {% assign yposition = yposition | plus: legendboxspacing %}
+        <rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="green" />
+        <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">M.S. Student</text>
+        {% assign yposition = yposition | plus: legendboxspacing %}
+        <rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="turquoise" />
+        <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Summer Student</text>
+    </svg>
+</div>

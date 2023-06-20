@@ -1,0 +1,13 @@
+---
+title: Photos from the LEVIR Lab
+layout: album
+group: album
+---
+
+{% assign sorted = site.album | sort: "title" | reverse %}
+{% for photo in sorted %}
+<h2><a href="{{ photo.url }}">{{ photo.title }}</a></h2>
+<div class="content">
+  {{ photo.content }}
+</div>
+{% endfor %}

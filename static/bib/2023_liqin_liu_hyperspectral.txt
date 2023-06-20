@@ -1,0 +1,9 @@
+@ARTICLE{10000408,
+  author={Liu, Liqin and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Hyperspectral Remote Sensing Image Synthesis Based on Implicit Neural Spectral Mixing Models},
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-14},
+  doi={10.1109/TGRS.2022.3232705}}

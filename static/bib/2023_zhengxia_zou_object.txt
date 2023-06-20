@@ -1,0 +1,9 @@
+@ARTICLE{10028728,
+  author={Zou, Zhengxia and Chen, Keyan and Shi, Zhenwei and Guo, Yuhong and Ye, Jieping},
+  journal={Proceedings of the IEEE},
+  title={Object Detection in 20 Years: A Survey},
+  year={2023},
+  volume={111},
+  number={3},
+  pages={257-276},
+  doi={10.1109/JPROC.2023.3238524}}

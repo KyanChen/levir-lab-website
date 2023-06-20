@@ -1,0 +1,9 @@
+@INPROCEEDINGS{4587343,
+  author={Kun Gai and Zhenwei Shi and Changshui Zhang},
+  booktitle={2008 IEEE Conference on Computer Vision and Pattern Recognition},
+  title={Blindly separating mixtures of multiple layers with spatial shifts},
+  year={2008},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/CVPR.2008.4587343}}
