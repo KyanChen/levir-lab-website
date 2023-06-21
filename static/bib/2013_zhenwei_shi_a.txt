@@ -1,0 +1,9 @@
+@article{shi2013regularized,
+  title={A regularized non-Gaussianity based multiple-target detector for hyperspectral images},
+  author={Shi, Zhenwei and Yang, Shuo and Qin, Zhen},
+  journal={Optics \& Laser Technology},
+  volume={47},
+  pages={379--388},
+  year={2013},
+  publisher={Elsevier}
+}

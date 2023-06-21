@@ -1,0 +1,9 @@
+@article{zhang2013nonnegative,
+  title={Nonnegative matrix factorization-based hyperspectral and panchromatic image fusion},
+  author={Zhang, Zhou and Shi, Zhenwei},
+  journal={Neural Computing and Applications},
+  volume={23},
+  pages={895--905},
+  year={2013},
+  publisher={Springer}
+}

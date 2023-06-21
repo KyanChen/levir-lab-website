@@ -1,0 +1,10 @@
+@article{huang2013nonlocal,
+  title={Nonlocal similarity regularized sparsity model for hyperspectral target detection},
+  author={Huang, Zhongwei and Shi, Zhenwei and Yang, Shuo},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  volume={10},
+  number={6},
+  pages={1532--1536},
+  year={2013},
+  publisher={IEEE}
+}

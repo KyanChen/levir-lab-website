@@ -1,0 +1,10 @@
+@article{lin2014multi,
+  title={Multi-scale retinex improvement for nighttime image enhancement},
+  author={Lin, Haoning and Shi, Zhenwei},
+  journal={optik},
+  volume={125},
+  number={24},
+  pages={7143--7148},
+  year={2014},
+  publisher={Elsevier}
+}

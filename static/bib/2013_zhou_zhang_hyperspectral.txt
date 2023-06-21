@@ -1,0 +1,10 @@
+@article{zhang2013hyperspectral,
+  title={Hyperspectral and panchromatic image fusion using unmixing-based constrained nonnegative matrix factorization},
+  author={Zhang, Zhou and Shi, Zhenwei and An, Zhenyu},
+  journal={Optik},
+  volume={124},
+  number={13},
+  pages={1601--1608},
+  year={2013},
+  publisher={Elsevier}
+}

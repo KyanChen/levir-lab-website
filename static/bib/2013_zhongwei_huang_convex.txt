@@ -1,0 +1,10 @@
+@article{huang2013convex,
+  title={Convex relaxation based sparse algorithm for hyperspectral target detection},
+  author={Huang, Zhongwei and Shi, Zhenwei and Qin, Zhen},
+  journal={Optik},
+  volume={124},
+  number={24},
+  pages={6594--6598},
+  year={2013},
+  publisher={Elsevier}
+}

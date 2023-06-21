@@ -1,0 +1,9 @@
+@article{shi2013efficient,
+  title={Efficient sparse unmixing analysis for hyperspectral imagery based on random projection},
+  author={Shi, Zhenwei and Liu, Liu and Zhai, Xinya and Jiang, Zhiguo},
+  journal={Neural Computing and Applications},
+  volume={23},
+  pages={2281--2293},
+  year={2013},
+  publisher={Springer}
+}

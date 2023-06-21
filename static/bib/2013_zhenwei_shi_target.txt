@@ -1,0 +1,10 @@
+@article{shi2013target,
+  title={Target detection using difference measured function based matched filter for hyperspectral imagery},
+  author={Shi, Zhenwei and Yang, Shuo and Jiang, Zhiguo},
+  journal={Optik-International Journal for Light and Electron Optics},
+  volume={124},
+  number={17},
+  pages={3017--3021},
+  year={2013},
+  publisher={Elsevier}
+}
