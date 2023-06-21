@@ -1,0 +1,10 @@
+@article{zhang2015hierarchical,
+  title={A hierarchical oil tank detector with deep surrounding features for high-resolution optical satellite imagery},
+  author={Zhang, Lu and Shi, Zhenwei and Wu, Jun},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={8},
+  number={10},
+  pages={4895--4909},
+  year={2015},
+  publisher={IEEE}
+}

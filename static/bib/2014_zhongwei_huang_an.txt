@@ -1,0 +1,10 @@
+@article{huang2014inner,
+  title={An inner-product-based discriminative IRLS algorithm for sparse hyperspectral detection},
+  author={Huang, Zhongwei and Shi, Zhenwei and Zhang, Yun},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={7},
+  number={6},
+  pages={2383--2392},
+  year={2014},
+  publisher={IEEE}
+}

@@ -1,0 +1,10 @@
+@article{tang2014sparse,
+  title={Sparse unmixing of hyperspectral data using spectral a priori information},
+  author={Tang, Wei and Shi, Zhenwei and Wu, Ying and Zhang, Changshui},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={53},
+  number={2},
+  pages={770--783},
+  year={2014},
+  publisher={IEEE}
+}

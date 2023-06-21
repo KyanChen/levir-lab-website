@@ -1,0 +1,10 @@
+@article{yang2014robust,
+  title={Robust hyperspectral image target detection using an inequality constraint},
+  author={Yang, Shuo and Shi, Zhenwei and Tang, Wei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={53},
+  number={6},
+  pages={3389--3404},
+  year={2014},
+  publisher={IEEE}
+}

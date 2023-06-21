@@ -1,0 +1,10 @@
+@article{an2014hyperspectral,
+  title={Hyperspectral image fusion by multiplication of spectral constraint and NMF},
+  author={An, Zhenyu and Shi, Zhenwei},
+  journal={Optik},
+  volume={125},
+  number={13},
+  pages={3150--3158},
+  year={2014},
+  publisher={Elsevier}
+}

@@ -1,0 +1,10 @@
+@article{an2014improved,
+  title={An improved-SFIM fusion method based on the calibration process},
+  author={An, Zhenyu and Shi, Zhenwei},
+  journal={Optik},
+  volume={125},
+  number={14},
+  pages={3764--3769},
+  year={2014},
+  publisher={Elsevier}
+}

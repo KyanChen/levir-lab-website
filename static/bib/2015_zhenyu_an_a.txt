@@ -1,0 +1,10 @@
+@article{an2015novel,
+  title={A novel unsupervised approach to discovering regions of interest in traffic images},
+  author={An, Zhenyu and Shi, Zhenwei and Wu, Ying and Zhang, Changshui},
+  journal={Pattern Recognition},
+  volume={48},
+  number={8},
+  pages={2581--2591},
+  year={2015},
+  publisher={Elsevier}
+}

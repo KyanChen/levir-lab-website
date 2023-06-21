@@ -1,0 +1,8 @@
+@inproceedings{zou2015quadratic,
+  title={Quadratic constrained energy minimization for hyperspectral target detection},
+  author={Zou, Zhengxia and Shi, Zhenwei and Wu, Jun and Wang, Hongqiang},
+  booktitle={2015 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)},
+  pages={4979--4982},
+  year={2015},
+  organization={IEEE}
+}
