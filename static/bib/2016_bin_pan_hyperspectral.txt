@@ -1,0 +1,9 @@
+@ARTICLE{7580567,
+  author={Pan, Bin and Shi, Zhenwei and Zhang, Ning and Xie, Shaobiao},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={Hyperspectral Image Classification Based on Nonlinear Spectral–Spatial Network}, 
+  year={2016},
+  volume={13},
+  number={12},
+  pages={1782-1786},
+  doi={10.1109/LGRS.2016.2608963}}

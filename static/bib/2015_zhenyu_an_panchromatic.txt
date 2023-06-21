@@ -1,0 +1,9 @@
+@INPROCEEDINGS{7326134,
+  author={An, Zhenyu and Shi, Zhenwei and Wu, Jun and Wang, Hongqiang},
+  booktitle={2015 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)}, 
+  title={Panchromatic image processing using hyperspectral unmixing method}, 
+  year={2015},
+  volume={},
+  number={},
+  pages={1777-1780},
+  doi={10.1109/IGARSS.2015.7326134}}

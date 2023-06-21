@@ -1,0 +1,9 @@
+@ARTICLE{7493617,
+  author={Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Ship Detection in Spaceborne Optical Image With SVD Networks}, 
+  year={2016},
+  volume={54},
+  number={10},
+  pages={5832-5845},
+  doi={10.1109/TGRS.2016.2572736}}

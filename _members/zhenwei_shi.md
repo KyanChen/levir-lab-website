@@ -1,6 +1,6 @@
 ---
 name: Zhenwei Shi, Ph.D.
-startdate: [2008-01-01]
+startdate: [2007-06-01]
 enddate: []
 image: /static/img/members/szw.jpeg
 position: Director

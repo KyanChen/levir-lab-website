@@ -1,0 +1,9 @@
+@ARTICLE{7175025,
+  author={Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Hierarchical Suppression Method for Hyperspectral Target Detection}, 
+  year={2016},
+  volume={54},
+  number={1},
+  pages={330-342},
+  doi={10.1109/TGRS.2015.2456957}}

@@ -1,0 +1,9 @@
+@ARTICLE{7289400,
+  author={Shi, Zhenwei and Zou, Zhengxia and Zhang, Changshui},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Real-Time Traffic Light Detection With Adaptive Background Suppression Filter}, 
+  year={2016},
+  volume={17},
+  number={3},
+  pages={690-700},
+  doi={10.1109/TITS.2015.2481459}}

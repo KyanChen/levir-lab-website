@@ -14,7 +14,7 @@ website:
 beihang:
 twitter:
 linkedin:
-github: https://github.com/zmoka-zht
+github: zmoka-zht
 researchgate:
 dblp: 
 orcid: 0009-0005-1296-3984

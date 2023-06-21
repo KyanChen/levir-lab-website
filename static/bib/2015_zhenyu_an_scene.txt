@@ -1,0 +1,9 @@
+@ARTICLE{7140732,
+  author={An, Zhenyu and Shi, Zhenwei},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Scene Learning for Cloud Detection on Remote-Sensing Images}, 
+  year={2015},
+  volume={8},
+  number={8},
+  pages={4206-4222},
+  doi={10.1109/JSTARS.2015.2438015}}

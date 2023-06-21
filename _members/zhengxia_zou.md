@@ -1,9 +1,10 @@
 ---
 name: Zhengxia Zou, Ph.D.
-startdate: [2011-09-01, 2013-09-01, 2020-11-01]
-enddate: [2013-09-01, 2018-06-01]
+startdate: [2011-09-01, 2013-09-01, 2021-11-01]
+enddate: [2013-09-01, 2018-07-01]
 image: /static/img/members/zzx.png
 position: Principal Researcher
+timeline_positions: ["M.S. Student (2011-2013)", "Ph.D. Student (2013-2018)", "Principal Researcher (2021-)"]
 # current:
 pronouns: he/him/his
 email: zhengxiazou@buaa.edu.cn

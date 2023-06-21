@@ -160,7 +160,7 @@ The LEVIR lab welcomes people of any race, ethnicity, religion, national origin,
     {% assign yheight = 16 %}
     {% assign yspacing = 18 %}
     {% assign fontsize = 10 %}
-    {% assign yearoffset = 2007 %}
+    {% assign yearoffset = 2006 %}
     {% assign majortick = 0.05 %}
     {% assign minortick = 0.025 %}
     {% assign legendboxsize = 20 %}
@@ -221,7 +221,7 @@ The LEVIR lab welcomes people of any race, ethnicity, religion, national origin,
 
         <rect x="{{ start | times: stretch }}" y="{{ i | times: yspacing }}" width="{{ duration | times: stretch }}" height="{{ yheight }}" fill="{{ color }}" />
         {% if tenure == 0 %}
-        <text text-anchor="end" x="{{ fontsize | divided_by: -4.0 | divided_by: stretch | plus: start | times: stretch }}" y="{{ i | times: yspacing | plus: fontsize }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">{% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}</text>
+        <text text-anchor="end" x="{{ fontsize | divided_by: -4.0 | divided_by: stretch | plus: start | times: stretch }}" y="{{ i | times: yspacing | plus: fontsize }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">{% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first  }}{% endif %}</text>
         {% endif %}
         {% endfor %}
         {% assign i = i | plus: 1 %}

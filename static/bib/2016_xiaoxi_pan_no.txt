@@ -1,0 +1,9 @@
+@ARTICLE{7600445,
+  author={Pan, Xiaoxi and Xie, Fengying and Jiang, Zhiguo and Shi, Zhenwei and Luo, Xiaoyan},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={No-Reference Assessment on Haze for Remote-Sensing Images}, 
+  year={2016},
+  volume={13},
+  number={12},
+  pages={1855-1859},
+  doi={10.1109/LGRS.2016.2614890}}

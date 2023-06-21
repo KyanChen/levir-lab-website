@@ -1,0 +1,9 @@
+@INPROCEEDINGS{7730820,
+  author={Wang, Dan and Shi, Zhenwei and Tang, Wei},
+  booktitle={2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)}, 
+  title={Collaborative sparse unmixing of hyperspectral data using L2,P norm}, 
+  year={2016},
+  volume={},
+  number={},
+  pages={6978-6981},
+  doi={10.1109/IGARSS.2016.7730820}}

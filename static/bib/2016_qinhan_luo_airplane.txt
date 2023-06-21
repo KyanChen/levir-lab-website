@@ -1,0 +1,9 @@
+@INPROCEEDINGS{7729355,
+  author={Luo, Qinhan and Shi, Zhenwei},
+  booktitle={2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)}, 
+  title={Airplane detection in remote sensing images based on Object Proposal}, 
+  year={2016},
+  volume={},
+  number={},
+  pages={1388-1391},
+  doi={10.1109/IGARSS.2016.7729355}}
