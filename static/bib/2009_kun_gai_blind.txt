@@ -1,0 +1,8 @@
+@inproceedings{gai2009blind,
+  title={Blind separation of superimposed images with unknown motions},
+  author={Gai, Kun and Shi, Zhenwei and Zhang, Changshui},
+  booktitle={2009 IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={1881--1888},
+  year={2009},
+  organization={IEEE}
+}

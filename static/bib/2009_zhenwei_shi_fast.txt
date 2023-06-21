@@ -1,0 +1,10 @@
+@article{shi2009fast,
+  title={Fast nonlinear autocorrelation algorithm for source separation},
+  author={Shi, Zhenwei and Zhang, Changshui},
+  journal={Pattern Recognition},
+  volume={42},
+  number={9},
+  pages={1732--1741},
+  year={2009},
+  publisher={Elsevier}
+}

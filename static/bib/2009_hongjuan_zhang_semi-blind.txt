@@ -1,0 +1,10 @@
+@article{zhang2009semi,
+  title={Semi-blind source extraction algorithm for fetal electrocardiogram based on generalized autocorrelations and reference signals},
+  author={Zhang, Hongjuan and Shi, Zhenwei and Guo, Chonghui and Feng, Enmin},
+  journal={Journal of computational and applied mathematics},
+  volume={223},
+  number={1},
+  pages={409--420},
+  year={2009},
+  publisher={Elsevier}
+}

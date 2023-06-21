@@ -1,0 +1,9 @@
+@article{wu2022remote,
+  title={Remote Sensing Novel View Synthesis With Implicit Multiplane Representations},
+  author={Wu, Yongchang and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--13},
+  year={2022},
+  publisher={IEEE}
+}

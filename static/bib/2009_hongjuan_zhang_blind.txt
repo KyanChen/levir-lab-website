@@ -1,0 +1,10 @@
+@article{zhang2009blind,
+  title={Blind source extraction based on generalized autocorrelations and complexity pursuit},
+  author={Zhang, Hongjuan and Shi, Zhenwei and Guo, Chonghui},
+  journal={Neurocomputing},
+  volume={72},
+  number={10-12},
+  pages={2556--2562},
+  year={2009},
+  publisher={Elsevier}
+}

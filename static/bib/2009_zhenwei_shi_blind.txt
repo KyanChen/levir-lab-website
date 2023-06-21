@@ -1,0 +1,10 @@
+@article{shi2009blind,
+  title={Blind source separation with nonlinear autocorrelation and non-Gaussianity},
+  author={Shi, Zhenwei and Jiang, Zhiguo and Zhou, Fugen and Yin, Jihao},
+  journal={Journal of computational and applied mathematics},
+  volume={229},
+  number={1},
+  pages={240--247},
+  year={2009},
+  publisher={Elsevier}
+}

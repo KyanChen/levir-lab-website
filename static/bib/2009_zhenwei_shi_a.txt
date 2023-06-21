@@ -1,0 +1,10 @@
+@article{shi2009fixed,
+  title={A fixed-point algorithm for blind source separation with nonlinear autocorrelation},
+  author={Shi, Zhenwei and Jiang, Zhiguo and Zhou, Fugen},
+  journal={Journal of computational and applied mathematics},
+  volume={223},
+  number={2},
+  pages={908--915},
+  year={2009},
+  publisher={Elsevier}
+}
