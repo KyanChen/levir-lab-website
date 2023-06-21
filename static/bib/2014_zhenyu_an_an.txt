@@ -1,0 +1,14 @@
+@article{AN20142768,
+title = {An automated airplane detection system for large panchromatic image with high spatial resolution},
+journal = {Optik},
+volume = {125},
+number = {12},
+pages = {2768-2775},
+year = {2014},
+issn = {0030-4026},
+doi = {https://doi.org/10.1016/j.ijleo.2013.12.003},
+url = {https://www.sciencedirect.com/science/article/pii/S0030402613014988},
+author = {Zhenyu An and Zhenwei Shi and Xichao Teng and Xinran Yu and Wei Tang},
+keywords = {Airplane detection, Line segment detector (LSD), Circle frequency filter, Histograms of Oriented Gradients (HOG), AdaBoost},
+abstract = {With a wide range of applications in different fields like airport management and military warfare, airplane detection has been a critical part in remote sensing image processing. In this paper, we focus on the airplane detection in large (usually larger than 10,000×10,000 pixels) panchromatic image (PI) with high spatial resolution (usually superior to 1m), and propose an automated airplane detection system. The system contains two main modules: In the first module, line segment detector (LSD) is applied to detect runway of an airport, thus segmenting airport region in a large PI and reducing airplane candidates. The other is used to detect airplanes in the segmented airport regions. We first use circle frequency filter to further locating airplane candidates, then accomplish precise detection task by combining Histograms of Oriented Gradients (HOG) descriptor and AdaBoost algorithm. Therefore, besides a practical airplane detection system, the other contributions of our approach include the following three parts: (1) it locates runway of an airport with LSD; (2) it classifies airplane candidates by using circle frequency filter; (3) it precisely detects airplanes by exploiting HOG and AdaBoost algorithm. Experimental results on real data indicate the efficacy of the proposed system. The airport and airplane detection rates are higher than 94% and 96%, respectively. Meanwhile, the false alarm rate of airplane detection is superior to 0.05%. Moreover, the whole time cost for handling a large PI is less than 2.5min, which implies that the system is a satisfactory choice for airplane detection in practical applications.}
+}

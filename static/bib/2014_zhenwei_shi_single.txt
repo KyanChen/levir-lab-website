@@ -1,0 +1,14 @@
+@article{SHI20143868,
+title = {Single image dehazing in inhomogeneous atmosphere},
+journal = {Optik},
+volume = {125},
+number = {15},
+pages = {3868-3875},
+year = {2014},
+issn = {0030-4026},
+doi = {https://doi.org/10.1016/j.ijleo.2014.01.170},
+url = {https://www.sciencedirect.com/science/article/pii/S0030402614003490},
+author = {Zhenwei Shi and Jiao Long and Wei Tang and Changshui Zhang},
+keywords = {Image dehazing, Dark channel, Guided filter, Automatic sky detector},
+abstract = {In hazy days, the contrast is reduced with the distance, which hinders the outdoor surveillance system from working properly. Considering the variation of aerosols concentration in inhomogeneous atmosphere and the relation between the attenuation coefficient and aerosols, we propose a more valid model for the attenuation coefficient than the existing one. In this paper, we propose an effective and robust algorithm based on dark channel prior and our optical model in inhomogeneous atmosphere to remove the haze effect from a single input image. In the proposed approach, we refine the coarse transmission map using guided filter, which is very effective while achieving fast speed. Based on our automatically sky region detection, we adjust the refined transmission, with which we can effectively overcome the color distortion in sky regions similar to the atmospheric light. We demonstrate that our method yields similar or even better results than the state-of-the-art techniques while performing fast. Moreover, our simple technique can be applied to most scenes plagued by haze and achieves visually compelling results.}
+}

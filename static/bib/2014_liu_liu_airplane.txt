@@ -1,0 +1,14 @@
+@article{LIU20145327,
+title = {Airplane detection based on rotation invariant and sparse coding in remote sensing images},
+journal = {Optik},
+volume = {125},
+number = {18},
+pages = {5327-5333},
+year = {2014},
+issn = {0030-4026},
+doi = {https://doi.org/10.1016/j.ijleo.2014.06.062},
+url = {https://www.sciencedirect.com/science/article/pii/S0030402614007074},
+author = {Liu Liu and Zhenwei Shi},
+keywords = {Airplane detection, Sparse coding, Rotation invariant, Radial gradient transform, Constraint pooling},
+abstract = {Airplane detection has been taking a great interest to researchers in the remote sensing filed. In this paper, we propose a new approach on feature extraction for airplane detection based on sparse coding in high resolution optical remote sensing images. However, direction of airplane in images brings difficulty on feature extraction. We focus on the airplane feature possessing rotation invariant that combined with sparse coding and radial gradient transform (RGT). Sparse coding has achieved excellent performance on classification problem through a linear combination of bases. Unlike the traditional bases learning that uses patch descriptor, this paper develops the idea by using RGT descriptors that compute the gradient histogram on annulus round the center of sample after radial gradient transform. This set of RGT descriptors on annuli is invariant to rotation. Thus the learned bases lead to the obtained sparse representation invariant to rotation. We also analyze the pooling problem within three different methods and normalization. The proposed pooling with constraint condition generates the final sparse representation which is robust to rotation and detection. The experimental results show that the proposed method has the better performance over other methods and provides a promising way to airplane detection.}
+}

@@ -1,0 +1,9 @@
+@ARTICLE{8082740,
+  author={Wang, Dan and Shi, Zhenwei and Cui, Xinrui},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Robust Sparse Unmixing for Hyperspectral Imagery}, 
+  year={2018},
+  volume={56},
+  number={3},
+  pages={1348-1359},
+  doi={10.1109/TGRS.2017.2761912}}

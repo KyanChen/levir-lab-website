@@ -1,0 +1,14 @@
+@article{TANG201431,
+title = {Sparse hyperspectral unmixing using an approximate L0 norm},
+journal = {Optik},
+volume = {125},
+number = {1},
+pages = {31-38},
+year = {2014},
+issn = {0030-4026},
+doi = {https://doi.org/10.1016/j.ijleo.2013.06.073},
+url = {https://www.sciencedirect.com/science/article/pii/S0030402613009455},
+author = {Wei Tang and Zhenwei Shi and Zhana Duren},
+keywords = {Hyperspectral unmixing, Sparse hyperspectral unmixing, Spectral library,  minimization, Reweighted  minimization},
+abstract = {Sparse unmixing aims at finding an optimal subset of spectral signatures in a large spectral library to effectively model each pixel in the hyperspectral image and compute their fractional abundances. In most previous work concerned with the sparse unmixing, L2 norm is used to measure the error tolerance and the L1 norm is added as the sparsity regularization. However, in some applications, using L1 norm to measure the error tolerance has significant robustness advantages over the L2 norm. Besides, in some cases, using a smooth function to approximate the L0 norm can obtain more accurate results than the L1 norm in the field of sparse regression. Thus, in this paper, we consider the two alternative choices for sparse unmixing. A reweighted iteration algorithm is also proposed so that the unconvex regularizer (smoothed L0 norm) can be efficiently solved through transforming it into a series of weighted L1 regularizer problems. Experimental results on both synthetic and real hyperspectral data demonstrate the efficacy of the new models.}
+}

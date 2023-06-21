@@ -1,0 +1,9 @@
+@ARTICLE{6675070,
+  author={Tang, Wei and Shi, Zhenwei and Wu, Ying},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Regularized Simultaneous Forward–Backward Greedy Algorithm for Sparse Unmixing of Hyperspectral Data}, 
+  year={2014},
+  volume={52},
+  number={9},
+  pages={5271-5288},
+  doi={10.1109/TGRS.2013.2287795}}

@@ -1,0 +1,14 @@
+@article{CHEN2014832,
+title = {Hyperspectral image fusion based on sparse constraint NMF},
+journal = {Optik},
+volume = {125},
+number = {2},
+pages = {832-838},
+year = {2014},
+issn = {0030-4026},
+doi = {https://doi.org/10.1016/j.ijleo.2013.07.061},
+url = {https://www.sciencedirect.com/science/article/pii/S0030402613010425},
+author = {Quan Chen and Zhenwei Shi and Zhenyu An},
+keywords = {Hyperspectral image fusion, Resolution enhancement, Nonnegative matrix factorization (NMF), Sparse prior},
+abstract = {The spatial resolution of hyperspectral image is often low due to the limitation of the imaging spectrometer. Fusing the original hyperspectral image with high-spatial-resolution panchromatic image is an effective approach to enhance the resolution of hyperspectral image. However, it is hard to preserve the spectral information at the same time of enhancing the resolution by the traditional fusion methods. In this paper, we proposed a fusion method based on the spectral unmixing model called sparse constraint nonnegative matrix factorization (SCNMF). This method has a superior balance of the spectral preservation and the spatial enhancement over some traditional fusion methods. In addition, the added sparse prior and NMF based unmixing model make the fusion more stable and physically reasonable. This method first decomposes the hyperspectral image into an endmember-matrix and an abundance-matrix, then sharpens the abundance-matrix with the panchromatic image, finally obtains the fused image by solving the spectral constraint optimization problem. The experiments on both synthetic and real data show the effectiveness of the proposed method.}
+}

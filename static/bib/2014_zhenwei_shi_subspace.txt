@@ -1,0 +1,9 @@
+@ARTICLE{6568877,
+  author={Shi, Zhenwei and Tang, Wei and Duren, Zhana and Jiang, Zhiguo},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Subspace Matching Pursuit for Sparse Unmixing of Hyperspectral Data}, 
+  year={2014},
+  volume={52},
+  number={6},
+  pages={3256-3274},
+  doi={10.1109/TGRS.2013.2272076}}

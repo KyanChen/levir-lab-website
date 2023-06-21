@@ -1,0 +1,9 @@
+@ARTICLE{8608023,
+  author={Pan, Bin and Shi, Zhenwei and Xu, Xia},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Analysis for the Weakly Pareto Optimum in Multiobjective-Based Hyperspectral Band Selection}, 
+  year={2019},
+  volume={57},
+  number={6},
+  pages={3729-3740},
+  doi={10.1109/TGRS.2018.2886853}}

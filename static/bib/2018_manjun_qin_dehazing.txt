@@ -1,0 +1,9 @@
+@ARTICLE{8325417,
+  author={Qin, Manjun and Xie, Fengying and Li, Wei and Shi, Zhenwei and Zhang, Haopeng},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Dehazing for Multispectral Remote Sensing Images Based on a Convolutional Neural Network With the Residual Architecture}, 
+  year={2018},
+  volume={11},
+  number={5},
+  pages={1645-1655},
+  doi={10.1109/JSTARS.2018.2812726}}

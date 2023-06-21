@@ -1,0 +1,9 @@
+@ARTICLE{8558115,
+  author={Pan, Bin and Shi, Zhenwei and Xu, Xia and Shi, Tianyang and Zhang, Ning and Zhu, Xinzhong},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={CoinNet: Copy Initialization Network for Multispectral Imagery Semantic Segmentation}, 
+  year={2019},
+  volume={16},
+  number={5},
+  pages={816-820},
+  doi={10.1109/LGRS.2018.2880756}}

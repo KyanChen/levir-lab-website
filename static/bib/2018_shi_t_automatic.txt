@@ -1,0 +1,17 @@
+
+@Article{rs10071130,
+AUTHOR = {Shi, Tianyang and Xu, Qizhi and Zou, Zhengxia and Shi, Zhenwei},
+TITLE = {Automatic Raft Labeling for Remote Sensing Images via Dual-Scale Homogeneous Convolutional Neural Network},
+JOURNAL = {Remote Sensing},
+VOLUME = {10},
+YEAR = {2018},
+NUMBER = {7},
+ARTICLE-NUMBER = {1130},
+URL = {https://www.mdpi.com/2072-4292/10/7/1130},
+ISSN = {2072-4292},
+ABSTRACT = {Raft-culture is a way of utilizing water for farming aquatic product. Automatic raft-culture monitoring by remote sensing technique is an important way to control the crop&rsquo;s growth and implement effective management. This paper presents an automatic pixel-wise raft labeling method based on fully convolutional network (FCN). As rafts are always tiny and neatly arranged in images, traditional FCN method fails to extract the clear boundary and other detailed information. Therefore, a homogeneous convolutional neural network (HCN) is designed, which only consists of convolutions and activations to retain all details. We further design a dual-scale structure (DS-HCN) to integrate higher-level contextual information for accomplishing sea&ndash;land segmentation and raft labeling at the same time in a uniform framework. A dataset with Gaofen-1 satellite images was collected to verify the effectiveness of our method. DS-HCN shows a satisfactory performance with a better interpretability and a more accurate labeling result.},
+DOI = {10.3390/rs10071130}
+}
+
+
+

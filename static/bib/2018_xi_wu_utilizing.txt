@@ -1,0 +1,17 @@
+
+@Article{rs10111853,
+AUTHOR = {Wu, Xi and Shi, Zhenwei},
+TITLE = {Utilizing Multilevel Features for Cloud Detection on Satellite Imagery},
+JOURNAL = {Remote Sensing},
+VOLUME = {10},
+YEAR = {2018},
+NUMBER = {11},
+ARTICLE-NUMBER = {1853},
+URL = {https://www.mdpi.com/2072-4292/10/11/1853},
+ISSN = {2072-4292},
+ABSTRACT = {Cloud detection, which is defined as the pixel-wise binary classification, is significant in satellite imagery processing. In current remote sensing literature, cloud detection methods are linked to the relationships of imagery bands or based on simple image feature analysis. These methods, which only focus on low-level features, are not robust enough on the images with difficult land covers, for clouds share similar image features such as color and texture with the land covers. To solve the problem, in this paper, we propose a novel deep learning method for cloud detection on satellite imagery by utilizing multilevel image features with two major processes. The first process is to obtain the cloud probability map from the designed deep convolutional neural network, which concatenates deep neural network features from low-level to high-level. The second part of the method is to get refined cloud masks through a composite image filter technique, where the specific filter captures multilevel features of cloud structures and the surroundings of the input imagery. In the experiments, the proposed method achieves 85.38% intersection over union of cloud in the testing set which contains 100 Gaofen-1 wide field of view images and obtains satisfactory visual cloud masks, especially for those hard images. The experimental results show that utilizing multilevel features by the combination of the network with feature concatenation and the particular filter tackles the cloud detection problem with improved cloud masks.},
+DOI = {10.3390/rs10111853}
+}
+
+
+

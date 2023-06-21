@@ -1,0 +1,9 @@
+@ARTICLE{8340224,
+  author={Shi, Zhenwei and Shi, Tianyang and Zhou, Min and Xu, Xia},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Collaborative Sparse Hyperspectral Unmixing Using  $l_{0}$  Norm}, 
+  year={2018},
+  volume={56},
+  number={9},
+  pages={5495-5508},
+  doi={10.1109/TGRS.2018.2818703}}

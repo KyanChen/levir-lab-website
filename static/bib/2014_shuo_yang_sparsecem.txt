@@ -1,0 +1,9 @@
+@ARTICLE{6818373,
+  author={Yang, Shuo and Shi, Zhenwei},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={SparseCEM and SparseACE for Hyperspectral Image Target Detection}, 
+  year={2014},
+  volume={11},
+  number={12},
+  pages={2135-2139},
+  doi={10.1109/LGRS.2014.2321556}}

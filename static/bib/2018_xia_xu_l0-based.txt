@@ -1,0 +1,13 @@
+@article{XU201846,
+title = {ℓ0-based sparse hyperspectral unmixing using spectral information and a multi-objectives formulation},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {141},
+pages = {46-58},
+year = {2018},
+issn = {0924-2716},
+doi = {https://doi.org/10.1016/j.isprsjprs.2018.04.008},
+url = {https://www.sciencedirect.com/science/article/pii/S0924271618301163},
+author = {Xia Xu and Zhenwei Shi and Bin Pan},
+keywords = {Hyperspectral image, Sparse unmixing, Multi-objective, Non-convex optimization},
+abstract = {Sparse unmixing aims at recovering pure materials from hyperpspectral images and estimating their abundance fractions. Sparse unmixing is actually ℓ0 problem which is NP-h ard, and a relaxation is often used. In this paper, we attempt to deal with ℓ0 problem directly via a multi-objective based method, which is a non-convex manner. The characteristics of hyperspectral images are integrated into the proposed method, which leads to a new spectra and multi-objective based sparse unmixing method (SMoSU). In order to solve the ℓ0 norm optimization problem, the spectral library is encoded in a binary vector, and a bit-wise flipping strategy is used to generate new individuals in the evolution process. However, a multi-objective method usually produces a number of non-dominated solutions, while sparse unmixing requires a single solution. How to make the final decision for sparse unmixing is challenging. To handle this problem, we integrate the spectral characteristic of hyperspectral images into SMoSU. By considering the spectral correlation in hyperspectral data, we improve the Tchebycheff decomposition function in SMoSU via a new regularization item. This regularization item is able to enforce the individual divergence in the evolution process of SMoSU. In this way, the diversity and convergence of population is further balanced, which is beneficial to the concentration of individuals. In the experiments part, three synthetic datasets and one real-world data are used to analyse the effectiveness of SMoSU, and several state-of-art sparse unmixing algorithms are compared.}
+}

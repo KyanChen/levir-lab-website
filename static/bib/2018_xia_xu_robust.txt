@@ -1,0 +1,9 @@
+@INPROCEEDINGS{8518148,
+  author={Xu, Xia and Wang, Liming and Pan, Bin and Shi, Zhenwei},
+  booktitle={IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={Robust Sparse Hyperspectral Unmixing Based on Multi-Objective Optimization}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={5760-5763},
+  doi={10.1109/IGARSS.2018.8518148}}

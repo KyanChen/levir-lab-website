@@ -1,0 +1,9 @@
+@ARTICLE{6650006,
+  author={Shi, Zhenwei and Yu, Xinran and Jiang, Zhiguo and Li, Bo},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Ship Detection in High-Resolution Optical Imagery Based on Anomaly Detector and Local Shape Feature}, 
+  year={2014},
+  volume={52},
+  number={8},
+  pages={4511-4523},
+  doi={10.1109/TGRS.2013.2282355}}
