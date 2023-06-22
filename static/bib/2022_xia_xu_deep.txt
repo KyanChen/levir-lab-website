@@ -1,0 +1,9 @@
+    @article{xu2022deep,
+  title={Deep autoencoder for hyperspectral unmixing via global-local smoothing},
+  author={Xu, Xia and Song, Xinyu and Li, Tao and Shi, Zhenwei and Pan, Bin},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--16},
+  year={2022},
+  publisher={IEEE}
+}

@@ -1,0 +1,10 @@
+@article{liang2003optimality,
+  title={Optimality conditions and duality for a minimax fractional programming with generalized convexity},
+  author={Liang, Zhi-an and Shi, Zhen-wei},
+  journal={Journal of Mathematical Analysis and Applications},
+  volume={277},
+  number={2},
+  pages={474--488},
+  year={2003},
+  publisher={Elsevier}
+}

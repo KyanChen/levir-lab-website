@@ -1,0 +1,9 @@
+    @article{wu2020scene,
+  title={Scene aggregation network for cloud detection on remote sensing imagery},
+  author={Wu, Xi and Shi, Zhenwei},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  volume={19},
+  pages={1--5},
+  year={2020},
+  publisher={IEEE}
+}

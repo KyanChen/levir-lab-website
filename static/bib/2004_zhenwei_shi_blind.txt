@@ -1,0 +1,9 @@
+@article{shi2004blind,
+  title={Blind source separation of more sources than mixtures using generalized exponential mixture models},
+  author={Shi, Zhenwei and Tang, Huanwen and Liu, Wenyu and Tang, Yiyuan},
+  journal={Neurocomputing},
+  volume={61},
+  pages={461--469},
+  year={2004},
+  publisher={Elsevier}
+}

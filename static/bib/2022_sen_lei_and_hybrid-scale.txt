@@ -1,0 +1,9 @@
+    @article{lei2021hybrid,
+  title={Hybrid-scale self-similarity exploitation for remote sensing image super-resolution},
+  author={Lei, Sen and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--10},
+  year={2021},
+  publisher={IEEE}
+}

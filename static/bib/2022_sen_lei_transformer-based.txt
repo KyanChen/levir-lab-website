@@ -1,0 +1,9 @@
+    @article{lei2021transformer,
+  title={Transformer-based multistage enhancement for remote sensing image super-resolution},
+  author={Lei, Sen and Shi, Zhenwei and Mo, Wenjing},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--11},
+  year={2021},
+  publisher={IEEE}
+}

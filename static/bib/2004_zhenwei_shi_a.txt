@@ -1,0 +1,9 @@
+@article{shi2004new,
+  title={A new fixed-point algorithm for independent component analysis},
+  author={Shi, Zhenwei and Tang, Huanwen and Tang, Yiyuan},
+  journal={Neurocomputing},
+  volume={56},
+  pages={467--473},
+  year={2004},
+  publisher={Elsevier}
+}

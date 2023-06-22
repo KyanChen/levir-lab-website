@@ -1,0 +1,9 @@
+@article{shi2005fast,
+  title={A fast fixed-point algorithm for complexity pursuit},
+  author={Shi, Zhenwei and Tang, Huanwen and Tang, Yiyuan},
+  journal={Neurocomputing},
+  volume={64},
+  pages={529--536},
+  year={2005},
+  publisher={Elsevier}
+}

@@ -1,0 +1,10 @@
+@article{shi2005blind,
+  title={Blind source separation of more sources than mixtures using sparse mixture models},
+  author={Shi, Zhenwei and Tang, Huanwen and Tang, Yiyuan},
+  journal={Pattern Recognition Letters},
+  volume={26},
+  number={16},
+  pages={2491--2499},
+  year={2005},
+  publisher={Elsevier}
+}

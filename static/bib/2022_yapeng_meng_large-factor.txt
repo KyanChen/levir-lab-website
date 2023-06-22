@@ -1,0 +1,9 @@
+@article{meng2022large,
+  title={Large-Factor Super-Resolution of Remote Sensing Images With Spectra-Guided Generative Adversarial Networks},
+  author={Meng, Yapeng and Li, Wenyuan and Lei, Sen and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--11},
+  year={2022},
+  publisher={IEEE}
+}

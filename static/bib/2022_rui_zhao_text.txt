@@ -1,0 +1,9 @@
+    @article{zhao2021text,
+  title={Text-to-remote-sensing-image generation with structured generative adversarial networks},
+  author={Zhao, Rui and Shi, Zhenwei},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  volume={19},
+  pages={1--5},
+  year={2021},
+  publisher={IEEE}
+}

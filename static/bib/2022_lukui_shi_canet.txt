@@ -1,0 +1,9 @@
+@article{shi2021canet,
+  title={CANet: Centerness-aware network for object detection in remote sensing images},
+  author={Shi, Lukui and Kuang, Linyi and Xu, Xia and Pan, Bin and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--13},
+  year={2021},
+  publisher={IEEE}
+}

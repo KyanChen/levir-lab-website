@@ -1,0 +1,9 @@
+    @article{li2022geographical,
+  title={Geographical Supervision Correction for Remote Sensing Representation Learning},
+  author={Li, Wenyuan and Chen, Keyan and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--20},
+  year={2022},
+  publisher={IEEE}
+}

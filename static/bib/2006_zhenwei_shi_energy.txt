@@ -1,0 +1,10 @@
+@article{shi2006energy,
+  title={Energy predictability to blind source separation},
+  author={Shi, Z and Zhang, C},
+  journal={Electronics Letters},
+  volume={42},
+  number={17},
+  pages={1006--1008},
+  year={2006},
+  publisher={IET}
+}

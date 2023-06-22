@@ -1,0 +1,10 @@
+    @article{shi2020neural,
+  title={Neural rendering for game character auto-creation},
+  author={Shi, Tianyang and Zou, Zhengxia and Shi, Zhenwei and Yuan, Yi},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={44},
+  number={3},
+  pages={1489--1502},
+  year={2020},
+  publisher={IEEE}
+}

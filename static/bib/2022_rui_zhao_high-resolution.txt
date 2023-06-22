@@ -1,0 +1,9 @@
+  @article{zhao2021high,
+  title={High-resolution remote sensing image captioning based on structured attention},
+  author={Zhao, Rui and Shi, Zhenwei and Zou, Zhengxia},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--14},
+  year={2021},
+  publisher={IEEE}
+}

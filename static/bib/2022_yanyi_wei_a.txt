@@ -1,0 +1,9 @@
+    @article{wei2022multiobjective,
+  title={A Multiobjective Group Sparse Hyperspectral Unmixing Method With High Correlation Library},
+  author={Wei, Yanyi and Xu, Xia and Pan, Bin and Li, Tao and Shi, Zhenwei},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={15},
+  pages={7114--7127},
+  year={2022},
+  publisher={IEEE}
+}

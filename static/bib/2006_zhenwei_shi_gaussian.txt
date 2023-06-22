@@ -1,0 +1,10 @@
+@article{shi2006gaussian,
+  title={Gaussian moments for noisy complexity pursuit},
+  author={Shi, Zhenwei and Zhang, Changshui},
+  journal={Neurocomputing},
+  volume={69},
+  number={7-9},
+  pages={917--921},
+  year={2006},
+  publisher={Elsevier}
+}
