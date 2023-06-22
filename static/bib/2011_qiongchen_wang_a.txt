@@ -1,0 +1,10 @@
+@article{wang2010hierarchical,
+  title={A hierarchical connection graph algorithm for gable-roof detection in aerial image},
+  author={Wang, Qiongchen and Jiang, Zhiguo and Yang, Junli and Zhao, Danpei and Shi, Zhenwei},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  volume={8},
+  number={1},
+  pages={177--181},
+  year={2010},
+  publisher={IEEE}
+}

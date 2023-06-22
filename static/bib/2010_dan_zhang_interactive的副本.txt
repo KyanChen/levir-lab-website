@@ -1,0 +1,10 @@
+@article{zhang2010interactive,
+  title={Interactive localized content based image retrieval with multiple-instance active learning},
+  author={Zhang, Dan and Wang, Fei and Shi, Zhenwei and Zhang, Changshui},
+  journal={Pattern recognition},
+  volume={43},
+  number={2},
+  pages={478--484},
+  year={2010},
+  publisher={Elsevier}
+}

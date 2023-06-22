@@ -1,0 +1,10 @@
+@article{shi2011hyperspectral,
+  title={Hyperspectral image fusion by the similarity measure-based variational method},
+  author={Shi, Zhenwei and An, Zhenyu and Jiang, Zhiguo},
+  journal={Optical Engineering},
+  volume={50},
+  number={7},
+  pages={077006--077006},
+  year={2011},
+  publisher={Society of Photo-Optical Instrumentation Engineers}
+}

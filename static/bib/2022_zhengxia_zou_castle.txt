@@ -1,0 +1,9 @@
+@article{zou2022castle,
+  title={Castle in the sky: Dynamic sky replacement and harmonization in videos},
+  author={Zou, Zhengxia and Zhao, Rui and Shi, Tianyang and Qiu, Shuang and Shi, Zhenwei},
+  journal={IEEE Transactions on Image Processing},
+  volume={31},
+  pages={5067--5078},
+  year={2022},
+  publisher={IEEE}
+}

@@ -1,0 +1,10 @@
+@article{tang2012nonnegative,
+  title={Nonnegative matrix factorization for hyperspectral unmixing using prior knowledge of spectral signatures},
+  author={Tang, Wei and Shi, Zhenwei and An, Zhenyu},
+  journal={Optical Engineering},
+  volume={51},
+  number={8},
+  pages={087001--087001},
+  year={2012},
+  publisher={Society of Photo-Optical Instrumentation Engineers}
+}

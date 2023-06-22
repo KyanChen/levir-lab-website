@@ -2,7 +2,7 @@
     title: "Robust High-order Matched Filter for Hyperspectral Target Detection"
     authors: "**Zhenwei Shi** and Shuo Yang"
     journal: Electronics Letters
-    pub_date: 2010-09-22
+    pub_date: 2010-07-22
     pdf: 
     arxiv: 
     code: 
@@ -12,3 +12,4 @@
     bibtex: /static/bib/2010_zhenwei_shi_robust.txt
     data:
 ---
+    

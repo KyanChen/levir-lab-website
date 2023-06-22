@@ -1,0 +1,9 @@
+@article{qin2013quasi,
+  title={A quasi-Newton-based spatial multiple materials detector for hyperspectral imagery},
+  author={Qin, Zhen and Shi, Zhenwei and Jiang, Zhiguo},
+  journal={Neural Computing and Applications},
+  volume={23},
+  pages={403--409},
+  year={2013},
+  publisher={Springer}
+}

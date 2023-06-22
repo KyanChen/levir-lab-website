@@ -1,0 +1,10 @@
+@article{shi2012hybrid,
+  title={Hybrid linear and nonlinear complexity pursuit for blind source separation},
+  author={Shi, Zhenwei and Zhang, Hongjuan and Jiang, Zhiguo},
+  journal={Journal of Computational and Applied Mathematics},
+  volume={236},
+  number={14},
+  pages={3434--3444},
+  year={2012},
+  publisher={Elsevier}
+}

@@ -1,0 +1,10 @@
+@article{gai2011blind,
+  title={Blind separation of superimposed moving images using image statistics},
+  author={Gai, Kun and Shi, Zhenwei and Zhang, Changshui},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={34},
+  number={1},
+  pages={19--32},
+  year={2011},
+  publisher={IEEE}
+}

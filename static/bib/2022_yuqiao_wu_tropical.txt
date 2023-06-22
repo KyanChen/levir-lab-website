@@ -1,0 +1,9 @@
+@article{wu2021tropical,
+  title={Tropical cyclone forecast using multitask deep learning framework},
+  author={Wu, Yuqiao and Geng, Xiaoyi and Liu, Zili and Shi, Zhenwei},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  volume={19},
+  pages={1--5},
+  year={2021},
+  publisher={IEEE}
+}
