@@ -4,12 +4,14 @@
 <h1>Lab Alumni</h1>
 
 <div class ="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-md-4 ">
-    {% assign sorted = site.members | sort: "enddate" | reverse %}
+
+    {% assign sorted = site.members | sort: 'startdate' | reverse %}
     {% for member in sorted %}
 
     {% if member.enddate == empty or member.startdate.size != member.enddate.size %}
     {% continue %}
     {% endif %}
+
 
     <div class="col">
         <hr>

@@ -1,7 +1,7 @@
 ---
 name: Chendan Wang
 startdate: [2020-09-01]
-enddate: [2023-01-01]
+enddate: [2023-01-19]
 image: /static/img/members/chendan_wang.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/none.jpg #365 x 365 pixels, 72 dpi
 position: "M.S."

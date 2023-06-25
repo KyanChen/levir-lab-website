@@ -1,7 +1,7 @@
 ---
 name: Haoning Lin
 startdate: [2013-09-01]
-enddate: [2021-07-01]
+enddate: [2021-07-21]
 image: /static/img/members/linghao_ling.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
 position: "Ph.D."
