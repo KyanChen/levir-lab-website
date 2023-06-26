@@ -6,8 +6,8 @@ image: /static/img/members/zhen_qin.jpg # 365 x 365 pixels, 72 dpi
 \# altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
 position: "M.S."
 timeline_positions: ["M.S. Student (2010-2013)"]
-subsequent:  "@Xi'an Microelectronics Technology Institute, CASA"
-pronouns: she/her # personal pronouns
+subsequent:  "@ Xi'an Microelectronics Technology Institute, CASA"
+pronouns: she/her/hers # personal pronouns
 email: jane19871212@126.com # Preferred public email address
 scholar: 
 website: 

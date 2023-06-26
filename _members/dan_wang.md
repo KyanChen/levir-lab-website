@@ -7,7 +7,7 @@ image: /static/img/members/dan_wang.jpg # 365 x 365 pixels, 72 dpi
 position: "M.S. Student"
 timeline_positions: ["M.S. Student (2014-2017)"]
 # subsequent:  update once you become an alumnus
-pronouns: she/her/her # personal pronouns
+pronouns: she/her/hers # personal pronouns
 email: wangdan16@hotmail.com # Preferred public email address
 scholar: 
 website: 
