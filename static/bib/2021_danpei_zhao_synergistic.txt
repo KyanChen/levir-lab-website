@@ -1,0 +1,10 @@
+@article{zhao2021synergistic,
+  title={Synergistic attention for ship instance segmentation in SAR images},
+  author={Zhao, Danpei and Zhu, Chunbo and Qi, Jing and Qi, Xinhu and Su, Zhenhua and Shi, Zhenwei},
+  journal={Remote Sensing},
+  volume={13},
+  number={21},
+  pages={4384},
+  year={2021},
+  publisher={MDPI}
+}

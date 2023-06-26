@@ -1,0 +1,10 @@
+@article{zhou2019local,
+  title={Local attention networks for occluded airplane detection in remote sensing images},
+  author={Zhou, Min and Zou, Zhengxia and Shi, Zhenwei and Zeng, Wen-Jun and Gui, Jie},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  volume={17},
+  number={3},
+  pages={381--385},
+  year={2019},
+  publisher={IEEE}
+}

@@ -1,0 +1,10 @@
+@article{liu2021dcl,
+  title={DCL-Net: Augmenting the capability of classification and localization for remote sensing object detection},
+  author={Liu, Enhai and Zheng, Yu and Pan, Bin and Xu, Xia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={59},
+  number={9},
+  pages={7933--7944},
+  year={2021},
+  publisher={IEEE}
+}

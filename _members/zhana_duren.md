@@ -2,6 +2,7 @@
 name: Zhana Duren
 startdate: [2010-09-01]
 enddate: [2012-06-01]
+leavedate: [2012-06-01]
 image: /static/img/members/zhana_duren.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
 position: "Intern Student"

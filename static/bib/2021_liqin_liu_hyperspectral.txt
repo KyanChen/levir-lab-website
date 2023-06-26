@@ -1,0 +1,9 @@
+@article{liu2021hyperspectral,
+  title={Hyperspectral remote sensing imagery generation from RGB images based on joint discrimination},
+  author={Liu, Liqin and Lei, Sen and Shi, Zhenwei and Zhang, Ning and Zhu, Xinzhong},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={14},
+  pages={7624--7636},
+  year={2021},
+  publisher={IEEE}
+}

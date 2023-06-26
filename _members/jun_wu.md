@@ -2,6 +2,7 @@
 name: Jun Wu
 startdate: [2009-09-01]
 enddate: [2012-01-01]
+leavedate: [2012-01-01]
 image: /static/img/members/jun_wu.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/jun_wu_pb.jpg #365 x 365 pixels, 72 dpi
 position: "M.S."

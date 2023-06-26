@@ -1,0 +1,10 @@
+@article{zou2020game,
+  title={Do game data generalize well for remote sensing image segmentation?},
+  author={Zou, Zhengxia and Shi, Tianyang and Li, Wenyuan and Zhang, Zhou and Shi, Zhenwei},
+  journal={Remote Sensing},
+  volume={12},
+  number={2},
+  pages={275},
+  year={2020},
+  publisher={MDPI}
+}

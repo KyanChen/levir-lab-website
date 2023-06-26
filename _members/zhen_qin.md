@@ -2,6 +2,7 @@
 name: Zhen Qin
 startdate: [2010-09-01]
 enddate: [2013-01-17]
+leavedate: [2013-01-17]
 image: /static/img/members/zhen_qin.jpg # 365 x 365 pixels, 72 dpi
 \# altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
 position: "M.S."

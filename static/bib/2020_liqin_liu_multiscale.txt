@@ -1,0 +1,10 @@
+@article{liu2020multiscale,
+  title={Multiscale deep spatial feature extraction using virtual RGB image for hyperspectral imagery classification},
+  author={Liu, Liqin and Shi, Zhenwei and Pan, Bin and Zhang, Ning and Luo, Huanlin and Lan, Xianchao},
+  journal={Remote sensing},
+  volume={12},
+  number={2},
+  pages={280},
+  year={2020},
+  publisher={MDPI}
+}

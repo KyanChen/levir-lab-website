@@ -2,6 +2,7 @@
 name: Qinhan Luo
 startdate: [2013-09-01]
 enddate: [2016-02-01]
+leavedate: [2016-02-01]
 image: /static/img/members/qinhan_luo.jpg # 365 x 365 pixels, 72 dpi
 \# altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
 position: "M.S."

@@ -2,6 +2,7 @@
 name: Zhenyu An
 startdate: [2010-09-01]
 enddate: [2016-06-01]
+leavedate: [2016-06-01]
 image: /static/img/members/zhenyu_an.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
 position: "Ph.D."

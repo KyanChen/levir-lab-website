@@ -1,0 +1,10 @@
+@article{li2020deep,
+  title={Deep matting for cloud detection in remote sensing images},
+  author={Li, Wenyuan and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={58},
+  number={12},
+  pages={8490--8502},
+  year={2020},
+  publisher={IEEE}
+}

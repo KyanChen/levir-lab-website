@@ -2,6 +2,7 @@
 name: Xinran Yu
 startdate: [2012-09-01]
 enddate: [2015-01-01]
+leavedate: [2015-01-01]
 image: /static/img/members/xinran_yu.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/yuxinran.jpg #365 x 365 pixels, 72 dpi
 position: "M.S."

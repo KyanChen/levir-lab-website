@@ -1,0 +1,17 @@
+
+@Article{rs15133223,
+AUTHOR = {Chen, Bowen and Liu, Liqin and Zou, Zhengxia and Shi, Zhenwei},
+TITLE = {Target Detection in Hyperspectral Remote Sensing Image: Current Status and Challenges},
+JOURNAL = {Remote Sensing},
+VOLUME = {15},
+YEAR = {2023},
+NUMBER = {13},
+ARTICLE-NUMBER = {3223},
+URL = {https://www.mdpi.com/2072-4292/15/13/3223},
+ISSN = {2072-4292},
+ABSTRACT = {Abundant spectral information endows unique advantages of hyperspectral remote sensing images in target location and recognition. Target detection techniques locate materials or objects of interest from hyperspectral images with given prior target spectra, and have been widely used in military, mineral exploration, ecological protection, etc. However, hyperspectral target detection is a challenging task due to high-dimension data, spectral changes, spectral mixing, and so on. To this end, many methods based on optimization and machine learning have been proposed in the past decades. In this paper, we review the representatives of hyperspectral image target detection methods and group them into seven categories: hypothesis testing-based methods, spectral angle-based methods, signal decomposition-based methods, constrained energy minimization (CEM)-based methods, kernel-based methods, sparse representation-based methods, and deep learning-based methods. We then comprehensively summarize their basic principles, classical algorithms, advantages, limitations, and connections. Meanwhile, we give critical comparisons of the methods on the summarized datasets and evaluation metrics. Furthermore, the future challenges and directions in the area are analyzed.},
+DOI = {10.3390/rs15133223}
+}
+
+
+

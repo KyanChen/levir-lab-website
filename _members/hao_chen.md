@@ -2,6 +2,7 @@
 name: Hao Chen
 startdate: [2015-07-01, 2017-09-01]
 enddate: [2017-09-01, 2023-07-01]
+leavedate: [2023-07-01]
 image: /static/img/members/hao_chen.png # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
 position: "Ph.D."

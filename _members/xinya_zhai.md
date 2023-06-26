@@ -2,6 +2,7 @@
 name: Xinya Zhai
 startdate: [2009-09-01]
 enddate: [2012-01-01]
+leavedate: [2012-01-01]
 image: /static/img/members/xinya_zhai.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/ZhaiXinya.jpg #365 x 365 pixels, 72 dpi
 position: "M.S."

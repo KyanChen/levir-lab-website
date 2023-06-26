@@ -2,6 +2,7 @@
 name: Zhongwei Huang
 startdate: [2011-11-01]
 enddate: [2013-06-01]
+leavedate: [2013-06-01]
 image: /static/img/members/zhongwei_huang.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/zhongwei_huang.jpg #365 x 365 pixels, 72 dpi
 position: "Intern Student"

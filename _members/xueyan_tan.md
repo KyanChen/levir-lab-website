@@ -2,6 +2,7 @@
 name: Xueyan Tan
 startdate: [2007-09-01]
 enddate: [2011-01-01]
+leavedate: [2011-01-01]
 image: /static/img/members/xueyan_tan.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/TanXueyan.jpg #365 x 365 pixels, 72 dpi
 position: "M.S."

@@ -2,9 +2,10 @@
 name: Wei Tang
 startdate: [2013-09-01]
 enddate: [2015-01-01]
+leavedate: [2015-01-01]
 image: /static/img/members/wei_tang.png # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
-position: "M.S. Student"
+position: "M.S."
 timeline_positions: ["M.S. Student (2013-2015)"]
 # subsequent:  update once you become an alumnus
 pronouns: he/him/his # personal pronouns

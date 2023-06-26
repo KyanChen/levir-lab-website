@@ -2,9 +2,10 @@
 name: Bin Pan
 startdate: [2015-01-01]
 enddate: [2019-09-01]
+leavedate: [2019-09-01]
 image: /static/img/members/bin_pan.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
-position: "Ph.D"
+position: "Ph.D."
 timeline_positions: ["Ph.D (2013-2019)"]
 subsequent:  "@Nankai University"
 pronouns: he/him/his # personal pronouns

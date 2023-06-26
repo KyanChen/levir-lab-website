@@ -1,0 +1,9 @@
+@article{zhang2021bayesian,
+  title={Bayesian Constrained Energy Minimization for Hyperspectral Target Detection},
+  author={Zhang, Jing and Zhao, Rui and Shi, Zhenwei and Zhang, Ning and Zhu, Xinzhong},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={14},
+  pages={8359--8372},
+  year={2021},
+  publisher={IEEE}
+}

@@ -1,0 +1,7 @@
+@inproceedings{zou2020deep,
+  title={Deep adversarial decomposition: A unified framework for separating superimposed images},
+  author={Zou, Zhengxia and Lei, Sen and Shi, Tianyang and Shi, Zhenwei and Ye, Jieping},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={12806--12816},
+  year={2020}
+}

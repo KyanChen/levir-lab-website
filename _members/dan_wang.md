@@ -2,9 +2,10 @@
 name: Dan Wang
 startdate: [2014-09-01]
 enddate: [2017-01-01]
+leavedate: [2017-01-01]
 image: /static/img/members/dan_wang.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
-position: "M.S. Student"
+position: "M.S."
 timeline_positions: ["M.S. Student (2014-2017)"]
 # subsequent:  update once you become an alumnus
 pronouns: she/her/hers # personal pronouns

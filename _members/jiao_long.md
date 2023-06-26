@@ -2,6 +2,7 @@
 name: Jiao Long
 startdate: [2011-09-01]
 enddate: [2014-01-01]
+leavedate: [2014-01-01]
 image: /static/img/members/jiao_long.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/jiao_long_pb.jpg #365 x 365 pixels, 72 dpi
 position: "M.S."
