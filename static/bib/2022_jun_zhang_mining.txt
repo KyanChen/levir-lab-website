@@ -1,0 +1,10 @@
+@article{zhang2022mining,
+  title={Mining Cross-Domain Structure Affinity for Refined Building Segmentation in Weakly Supervised Constraints},
+  author={Zhang, Jun and Liu, Yue and Wu, Pengfei and Shi, Zhenwei and Pan, Bin},
+  journal={Remote Sensing},
+  volume={14},
+  number={5},
+  pages={1227},
+  year={2022},
+  publisher={MDPI}
+}

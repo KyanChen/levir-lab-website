@@ -1,0 +1,9 @@
+@article{zhang2021open,
+  title={An open set domain adaptation algorithm via exploring transferability and discriminability for remote sensing image scene classification},
+  author={Zhang, Jun and Liu, Jiao and Pan, Bin and Chen, Zongqing and Xu, Xia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--12},
+  year={2021},
+  publisher={IEEE}
+}

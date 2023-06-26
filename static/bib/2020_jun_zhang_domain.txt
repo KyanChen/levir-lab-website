@@ -1,0 +1,9 @@
+@ARTICLE{9070187,
+  author={Zhang, Jun and Liu, Jiao and Pan, Bin and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Domain Adaptation Based on Correlation Subspace Dynamic Distribution Alignment for Remote Sensing Image Scene Classification}, 
+  year={2020},
+  volume={58},
+  number={11},
+  pages={7920-7930},
+  doi={10.1109/TGRS.2020.2985072}}

@@ -1,0 +1,9 @@
+@article{chen2021remote,
+  title={Remote sensing image change detection with transformers},
+  author={Chen, Hao and Qi, Zipeng and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--14},
+  year={2021},
+  publisher={IEEE}
+}

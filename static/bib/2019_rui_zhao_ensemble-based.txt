@@ -1,0 +1,17 @@
+
+@Article{rs11111310,
+AUTHOR = {Zhao, Rui and Shi, Zhenwei and Zou, Zhengxia and Zhang, Zhou},
+TITLE = {Ensemble-Based Cascaded Constrained Energy Minimization for Hyperspectral Target Detection},
+JOURNAL = {Remote Sensing},
+VOLUME = {11},
+YEAR = {2019},
+NUMBER = {11},
+ARTICLE-NUMBER = {1310},
+URL = {https://www.mdpi.com/2072-4292/11/11/1310},
+ISSN = {2072-4292},
+ABSTRACT = {Ensemble learning is an important group of machine learning techniques that aim to enhance the nonlinearity and generalization ability of a learning system by aggregating multiple learners. We found that ensemble techniques show great potential for improving the performance of traditional hyperspectral target detection algorithms, while at present, there are few previous works have been done on this topic. To this end, we propose an Ensemble based Constrained Energy Minimization (E-CEM) detector for hyperspectral image target detection. Classical hyperspectral image target detection algorithms like Constrained Energy Minimization (CEM), matched filter (MF) and adaptive coherence/cosine estimator (ACE) are usually designed based on constrained least square regression methods or hypothesis testing methods with Gaussian distribution assumption. However, remote sensing hyperspectral data captured in a real-world environment usually shows strong nonlinearity and non-Gaussianity, which will lead to performance degradation of these classical detection algorithms. Although some hierarchical detection models are able to learn strong nonlinear discrimination of spectral data, due to the spectrum changes, these models usually suffer from the instability in detection tasks. The proposed E-CEM is designed based on the classical CEM detection algorithm. To improve both of the detection nonlinearity and generalization ability, the strategies of &ldquo;cascaded detection&rdquo;, &ldquo;random averaging&rdquo; and &ldquo;multi-scale scanning&rdquo; are specifically designed. Experiments on one synthetic hyperspectral image and two real hyperspectral images demonstrate the effectiveness of our method. E-CEM outperforms the traditional CEM detector and other state-of-the-art detection algorithms. Our code will be made publicly available.},
+DOI = {10.3390/rs11111310}
+}
+
+
+

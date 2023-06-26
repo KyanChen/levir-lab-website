@@ -1,0 +1,8 @@
+@inproceedings{chen2022semantic,
+  title={Semantic decoupled representation learning for remote sensing image change detection},
+  author={Chen, Hao and Zao, Yifan and Liu, Liqin and Chen, Song and Shi, Zhenwei},
+  booktitle={IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={1051--1054},
+  year={2022},
+  organization={IEEE}
+}

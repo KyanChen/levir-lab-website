@@ -1,0 +1,9 @@
+@article{chen2021adversarial,
+  title={Adversarial instance augmentation for building change detection in remote sensing images},
+  author={Chen, Hao and Li, Wenyuan and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--16},
+  year={2021},
+  publisher={IEEE}
+}

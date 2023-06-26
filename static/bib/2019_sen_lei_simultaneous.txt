@@ -1,0 +1,9 @@
+@INPROCEEDINGS{8900402,
+  author={Lei, Sen and Shi, Zhenwei and Wu, Xi and Pan, Bin and Xu, Xia and Hao, Hongxun},
+  booktitle={IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={Simultaneous Super-Resolution and Segmentation for Remote Sensing Images}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={3121-3124},
+  doi={10.1109/IGARSS.2019.8900402}}

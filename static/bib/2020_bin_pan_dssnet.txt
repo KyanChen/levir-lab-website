@@ -1,0 +1,9 @@
+@ARTICLE{8950204,
+  author={Pan, Bin and Xu, Xia and Shi, Zhenwei and Zhang, Ning and Luo, Huanlin and Lan, Xianchao},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={DSSNet: A Simple Dilated Semantic Segmentation Network for Hyperspectral Imagery Classification}, 
+  year={2020},
+  volume={17},
+  number={11},
+  pages={1968-1972},
+  doi={10.1109/LGRS.2019.2960528}}

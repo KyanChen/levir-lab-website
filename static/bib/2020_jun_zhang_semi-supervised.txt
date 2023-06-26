@@ -1,0 +1,9 @@
+@ARTICLE{9037064,
+  author={Zhang, Jun and Zhang, Min and Pan, Bin and Shi, Zhenwei},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Semisupervised Center Loss for Remote Sensing Image Scene Classification}, 
+  year={2020},
+  volume={13},
+  number={},
+  pages={1362-1373},
+  doi={10.1109/JSTARS.2020.2978864}}

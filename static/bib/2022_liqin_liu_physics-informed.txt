@@ -1,0 +1,9 @@
+@article{liu2022physics,
+  title={Physics-informed hyperspectral remote sensing image synthesis with deep conditional generative adversarial networks},
+  author={Liu, Liqin and Li, Wenyuan and Shi, Zhenwei and Zou, Zhengxia},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--15},
+  year={2022},
+  publisher={IEEE}
+}

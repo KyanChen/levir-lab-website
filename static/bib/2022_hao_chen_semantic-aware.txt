@@ -1,0 +1,9 @@
+@article{chen2022semantic,
+  title={Semantic-aware dense representation learning for remote sensing image change detection},
+  author={Chen, Hao and Li, Wenyuan and Chen, Song and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--18},
+  year={2022},
+  publisher={IEEE}
+}

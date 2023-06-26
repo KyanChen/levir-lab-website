@@ -1,0 +1,17 @@
+
+@Article{rs11091089,
+AUTHOR = {Liu, Ziming and Zhao, Danpei and Shi, Zhenwei and Jiang, Zhiguo},
+TITLE = {Unsupervised Saliency Model with Color Markov Chain for Oil Tank Detection},
+JOURNAL = {Remote Sensing},
+VOLUME = {11},
+YEAR = {2019},
+NUMBER = {9},
+ARTICLE-NUMBER = {1089},
+URL = {https://www.mdpi.com/2072-4292/11/9/1089},
+ISSN = {2072-4292},
+ABSTRACT = {Traditional oil tank detection methods often use geometric shape information. However, it is difficult to guarantee accurate detection under a variety of disturbance factors, especially various colors, scale differences, and the shadows caused by view angle and illumination. Therefore, we propose an unsupervised saliency model with Color Markov Chain (US-CMC) to deal with oil tank detection. To avoid the influence of shadows, we make use of the CIE Lab space to construct a Color Markov Chain and generate a bottom-up latent saliency map. Moreover, we build a circular feature map based on a radial symmetric circle, which makes true targets to be strengthened for a subjective detection task. Besides, we combine the latent saliency map with the circular feature map, which can effectively suppress other salient regions except for oil tanks. Extensive experimental results demonstrate that it outperforms 15 saliency models for remote sensing images (RSIs). Compared with conventional oil tank detection methods, US-CMC has achieved better results and is also more robust for view angle, shadow, and shape similarity problems.},
+DOI = {10.3390/rs11091089}
+}
+
+
+

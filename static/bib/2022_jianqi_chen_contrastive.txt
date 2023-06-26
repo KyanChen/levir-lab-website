@@ -1,0 +1,9 @@
+@article{chen2022contrastive,
+  title={Contrastive Learning for Fine-Grained Ship Classification in Remote Sensing Images},
+  author={Chen, Jianqi and Chen, Keyan and Chen, Hao and Li, Wenyuan and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--16},
+  year={2022},
+  publisher={IEEE}
+}

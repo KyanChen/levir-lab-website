@@ -1,0 +1,9 @@
+@ARTICLE{8946581,
+  author={Lei, Sen and Shi, Zhenwei and Zou, Zhengxia},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Coupled Adversarial Training for Remote Sensing Image Super-Resolution}, 
+  year={2020},
+  volume={58},
+  number={5},
+  pages={3633-3643},
+  doi={10.1109/TGRS.2019.2959020}}

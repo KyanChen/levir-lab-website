@@ -1,0 +1,9 @@
+@ARTICLE{8807378,
+  author={Xu, Xia and Shi, Zhenwei and Pan, Bin and Li, Xuelong},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={A Classification-Based Model for Multi-Objective Hyperspectral Sparse Unmixing}, 
+  year={2019},
+  volume={57},
+  number={12},
+  pages={9612-9625},
+  doi={10.1109/TGRS.2019.2928021}}

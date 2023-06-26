@@ -1,0 +1,9 @@
+@article{zhao2021ugcnet,
+  title={UGCNet: An Unsupervised Semantic Segmentation Network Embedded with Geometry Consistency for Remote-Sensing Images},
+  author={Zhao, Danpei and Yuan, Bo and Gao, Yue and Qi, Xinhu and Shi, Zhenwei},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  volume={19},
+  pages={1--5},
+  year={2021},
+  publisher={IEEE}
+}

@@ -1,0 +1,9 @@
+@article{chen2022degraded,
+  title={A degraded reconstruction enhancement-based method for tiny ship detection in remote sensing images with a new large-scale dataset},
+  author={Chen, Jianqi and Chen, Keyan and Chen, Hao and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--14},
+  year={2022},
+  publisher={IEEE}
+}

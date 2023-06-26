@@ -1,0 +1,9 @@
+@article{zhao2021semantic,
+  title={Semantic segmentation of remote sensing image based on regional self-attention mechanism},
+  author={Zhao, Danpei and Wang, Chenxu and Gao, Yue and Shi, Zhenwei and Xie, Fengying},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  volume={19},
+  pages={1--5},
+  year={2021},
+  publisher={IEEE}
+}
