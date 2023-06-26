@@ -1,0 +1,10 @@
+@article{pan2017hierarchical,
+  title={Hierarchical guidance filtering-based ensemble classification for hyperspectral images},
+  author={Pan, Bin and Shi, Zhenwei and Xu, Xia},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={55},
+  number={7},
+  pages={4177--4189},
+  year={2017},
+  publisher={IEEE}
+}

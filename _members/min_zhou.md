@@ -1,8 +1,8 @@
 ---
 name: Min Zhou
 startdate: [2016-09-01]
-enddate: [2018-12-31]
-leave_date: [2018-12-31]
+enddate: [2018-01-10]
+leavedate: [2018-01-10]
 image: /static/img/members/min_zhou.png # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
 position: "M.S."

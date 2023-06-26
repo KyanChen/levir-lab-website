@@ -1,8 +1,8 @@
 ---
-name: Liu Liu
+name: "Liu Liu"
 startdate: [2011-09-01]
-enddate: [2014-06-31]
-leave_date: [2014-06-31]
+enddate: [2014-06-30]
+leavedate: [2014-06-30]
 image: /static/img/members/liu_liu.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
 position: "M.S."

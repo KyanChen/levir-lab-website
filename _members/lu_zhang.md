@@ -1,8 +1,8 @@
 ---
 name: Lu Zhang
 startdate: [2013-09-01]
-enddate: [2016-06-31]
-leave_date: [2016-06-31]
+enddate: [2016-06-30]
+leavedate: [2016-06-30]
 image: /static/img/members/lu_zhang.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
 position: "M.S."

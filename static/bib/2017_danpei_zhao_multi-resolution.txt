@@ -1,0 +1,10 @@
+@article{zhao2017multiresolution,
+  title={Multiresolution airport detection via hierarchical reinforcement learning saliency model},
+  author={Zhao, Danpei and Ma, Yuanyuan and Jiang, Zhiguo and Shi, Zhenwei},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={10},
+  number={6},
+  pages={2855--2866},
+  year={2017},
+  publisher={IEEE}
+}

@@ -1,0 +1,10 @@
+@article{wang2017multi,
+  title={Multi-feature sea--land segmentation based on pixel-wise learning for optical remote-sensing imagery},
+  author={Wang, Dan and Cui, Xinrui and Xie, Fengying and Jiang, Zhiguo and Shi, Zhenwei},
+  journal={International journal of remote sensing},
+  volume={38},
+  number={15},
+  pages={4327--4347},
+  year={2017},
+  publisher={Taylor \& Francis}
+}

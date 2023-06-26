@@ -1,0 +1,10 @@
+@article{xie2017multilevel,
+  title={Multilevel cloud detection in remote sensing images based on deep learning},
+  author={Xie, Fengying and Shi, Mengyun and Shi, Zhenwei and Yin, Jihao and Zhao, Danpei},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={10},
+  number={8},
+  pages={3631--3640},
+  year={2017},
+  publisher={IEEE}
+}

@@ -1,0 +1,10 @@
+@article{pan2017r,
+  title={R-VCANet: A new deep-learning-based hyperspectral image classification method},
+  author={Pan, Bin and Shi, Zhenwei and Xu, Xia},
+  journal={IEEE Journal of selected topics in applied earth observations and remote sensing},
+  volume={10},
+  number={5},
+  pages={1975--1986},
+  year={2017},
+  publisher={IEEE}
+}

@@ -1,0 +1,10 @@
+@article{pan2017hashing,
+  title={Hashing based hierarchical feature representation for hyperspectral imagery classification},
+  author={Pan, Bin and Shi, Zhenwei and Xu, Xia and Yang, Yi},
+  journal={Remote Sensing},
+  volume={9},
+  number={11},
+  pages={1094},
+  year={2017},
+  publisher={MDPI}
+}

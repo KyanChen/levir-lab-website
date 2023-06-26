@@ -1,0 +1,9 @@
+@ARTICLE{7514226,
+  author={Pan, Bin and Shi, Zhenwei and An, Zhenyu and Jiang, Zhiguo and Ma, Yi},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={A Novel Spectral-Unmixing-Based Green Algae Area Estimation Method for GOCI Data}, 
+  year={2017},
+  volume={10},
+  number={2},
+  pages={437-449},
+  doi={10.1109/JSTARS.2016.2585161}}

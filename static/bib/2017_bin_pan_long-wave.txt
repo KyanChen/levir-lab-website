@@ -1,0 +1,10 @@
+@article{pan2017longwave,
+  title={Longwave infrared hyperspectral image classification via an ensemble method},
+  author={Pan, Bin and Shi, Zhenwei and Xu, Xia},
+  journal={International Journal of Remote Sensing},
+  volume={38},
+  number={22},
+  pages={6164--6178},
+  year={2017},
+  publisher={Taylor \& Francis}
+}

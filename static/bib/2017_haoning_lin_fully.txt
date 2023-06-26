@@ -1,0 +1,10 @@
+@article{lin2017fully,
+  title={Fully convolutional network with task partitioning for inshore ship detection in optical remote sensing images},
+  author={Lin, Haoning and Shi, Zhenwei and Zou, Zhengxia},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  volume={14},
+  number={10},
+  pages={1665--1669},
+  year={2017},
+  publisher={IEEE}
+}
