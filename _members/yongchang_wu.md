@@ -1,12 +1,12 @@
 ---
 name: Yongchang Wu
-startdate: [2020-09-01]
+startdate: [2020-09-01, 2023-01-10]
 enddate: [2023-01-10]
-leavedate: [2023-01-10]
+# leavedate: [2023-01-10]
 image: /static/img/members/yongchang_wu.jpg # 365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
-position: "M.S."
-timeline_positions: ["M.S. Student (2020-2023)"]
+position: "Ph.D. Student"
+timeline_positions: ["M.S. Student (2020-2023)", "Ph.D. Student (2023-2026)"]
 # subsequent:  update once you become an alumnus
 pronouns: he/him/his # personal pronouns
 email: wuyongchang@buaa.edu.cn # Preferred public email address

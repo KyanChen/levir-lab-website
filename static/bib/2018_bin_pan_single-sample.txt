@@ -1,0 +1,9 @@
+@INPROCEEDINGS{8518820,
+  author={Pan, Bin and Wang, Liming and Yu, Xinran and Shi, Zhenwei},
+  booktitle={IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={Single-Sample Aeroplane Detection in High-Resolution Optimal Remote Sensing Imagery}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={2495-2498},
+  doi={10.1109/IGARSS.2018.8518820}}

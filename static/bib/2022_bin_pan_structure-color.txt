@@ -1,0 +1,9 @@
+@article{pan2021structure,
+  title={Structure--color preserving network for hyperspectral image super-resolution},
+  author={Pan, Bin and Qu, Qiaoying and Xu, Xia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--12},
+  year={2021},
+  publisher={IEEE}
+}

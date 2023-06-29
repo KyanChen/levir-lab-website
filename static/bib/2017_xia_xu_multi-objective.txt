@@ -1,0 +1,13 @@
+@article{XU201754,
+title = {Multi-objective based spectral unmixing for hyperspectral images},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {124},
+pages = {54-69},
+year = {2017},
+issn = {0924-2716},
+doi = {https://doi.org/10.1016/j.isprsjprs.2016.12.010},
+url = {https://www.sciencedirect.com/science/article/pii/S0924271616306529},
+author = {Xia Xu and Zhenwei Shi},
+keywords = {Hyperspectral image, Sparse unmixing, Multi-objective optimization,  problem, Binary coding},
+abstract = {Sparse hyperspectral unmixing assumes that each observed pixel can be expressed by a linear combination of several pure spectra in a priori library. Sparse unmixing is challenging, since it is usually transformed to a NP-hard l0 norm based optimization problem. Existing methods usually utilize a relaxation to the original l0 norm. However, the relaxation may bring in sensitive weighted parameters and additional calculation error. In this paper, we propose a novel multi-objective based algorithm to solve the sparse unmixing problem without any relaxation. We transform sparse unmixing to a multi-objective optimization problem, which contains two correlative objectives: minimizing the reconstruction error and controlling the endmember sparsity. To improve the efficiency of multi-objective optimization, a population-based randomly flipping strategy is designed. Moreover, we theoretically prove that the proposed method is able to recover a guaranteed approximate solution from the spectral library within limited iterations. The proposed method can directly deal with l0 norm via binary coding for the spectral signatures in the library. Experiments on both synthetic and real hyperspectral datasets demonstrate the effectiveness of the proposed method.}
+}

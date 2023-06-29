@@ -1,0 +1,9 @@
+@INPROCEEDINGS{8517616,
+  author={Pan, Bin and Wang, Liming and Xu, Xia and Shi, Zhenwei},
+  booktitle={IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={Towards Weakly Pareto Optimal: An Improved Multi-Objective Based Band Selection Method for Hyperspectral Imagery}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={4705-4708},
+  doi={10.1109/IGARSS.2018.8517616}}

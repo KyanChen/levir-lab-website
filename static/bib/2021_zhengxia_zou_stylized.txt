@@ -1,0 +1,9 @@
+@INPROCEEDINGS{9578647,
+  author={Zou, Zhengxia and Shi, Tianyang and Qiu, Shuang and Yuan, Yi and Shi, Zhenwei},
+  booktitle={2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+  title={Stylized Neural Painting}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={15684-15693},
+  doi={10.1109/CVPR46437.2021.01543}}

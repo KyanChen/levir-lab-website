@@ -1,0 +1,10 @@
+@article{ma2020multiscale,
+  title={Multiscale methods for optical remote-sensing image captioning},
+  author={Ma, Xiaofeng and Zhao, Rui and Shi, Zhenwei},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  volume={18},
+  number={11},
+  pages={2001--2005},
+  year={2020},
+  publisher={IEEE}
+}

@@ -1,0 +1,20 @@
+@InProceedings{10.1007/978-3-319-71598-8_29,
+author="Li, Mingyang
+and Zhang, Ning
+and Pan, Bin
+and Xie, Shaobiao
+and Wu, Xi
+and Shi, Zhenwei",
+editor="Zhao, Yao
+and Kong, Xiangwei
+and Taubman, David",
+title="Hyperspectral Image Classification Based on Deep Forest and Spectral-Spatial Cooperative Feature",
+booktitle="Image and Graphics",
+year="2017",
+publisher="Springer International Publishing",
+address="Cham",
+pages="325--336",
+abstract="Recently, deep-learning-based methods have displayed promising performance for hyperspectral image (HSI) classification. However, these methods usually require a large number of training samples, and the complex structure and time-consuming problem have restricted their applications. Deep forest, a decision tree ensemble approach with performance highly competitive to deep neural networks. Deep forest can work well and efficiently even when there are only small-scale training data. In this paper, a novel simplified deep framework is proposed, which achieves higher accuracy when the number of training samples is small. We propose the framework which employs local binary patterns (LBPS) and gabor filter to extract local-global image features. The extracted feature along with original spectral features will be stacked, which can achieve concatenation of multiple features. Finally, deep forest will extract deeper features and use strategy of layer-by-layer voting for HSI classification.",
+isbn="978-3-319-71598-8"
+}
+

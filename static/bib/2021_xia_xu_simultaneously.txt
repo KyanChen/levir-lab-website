@@ -1,0 +1,17 @@
+@ARTICLE{9178430,
+
+  author={Xu, Xia and Pan, Bin and Chen, Zongqing and Shi, Zhenwei and Li, Tao},
+
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+
+  title={Simultaneously Multiobjective Sparse Unmixing and Library Pruning for Hyperspectral Imagery}, 
+
+  year={2021},
+
+  volume={59},
+
+  number={4},
+
+  pages={3383-3395},
+
+  doi={10.1109/TGRS.2020.3016941}}

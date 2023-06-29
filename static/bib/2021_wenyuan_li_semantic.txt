@@ -1,0 +1,17 @@
+@ARTICLE{9460820,
+
+  author={Li, Wenyuan and Chen, Hao and Shi, Zhenwei},
+
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+
+  title={Semantic Segmentation of Remote Sensing Images With Self-Supervised Multitask Representation Learning}, 
+
+  year={2021},
+
+  volume={14},
+
+  number={},
+
+  pages={6438-6450},
+
+  doi={10.1109/JSTARS.2021.3090418}}

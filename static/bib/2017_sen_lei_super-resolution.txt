@@ -1,0 +1,9 @@
+@ARTICLE{7937881,
+  author={Lei, Sen and Shi, Zhenwei and Zou, Zhengxia},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={Super-Resolution for Remote Sensing Images via Local–Global Combined Network}, 
+  year={2017},
+  volume={14},
+  number={8},
+  pages={1243-1247},
+  doi={10.1109/LGRS.2017.2704122}}

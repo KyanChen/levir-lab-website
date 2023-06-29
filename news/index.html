@@ -6,6 +6,9 @@ group: news
 
 {% assign sorted = site.news | sort: "title" | reverse %}
 {% for post in sorted %}
+{% if post.title contains "In 9999" %}
+{% continue %}
+{% endif %}
 <hr>
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 <div class="content">

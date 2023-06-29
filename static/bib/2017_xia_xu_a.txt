@@ -1,0 +1,9 @@
+@ARTICLE{8057978,
+  author={Xu, Xia and Shi, Zhenwei and Pan, Bin},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={A New Unsupervised Hyperspectral Band Selection Method Based on Multiobjective Optimization}, 
+  year={2017},
+  volume={14},
+  number={11},
+  pages={2112-2116},
+  doi={10.1109/LGRS.2017.2753237}}

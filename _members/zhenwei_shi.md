@@ -8,7 +8,7 @@ position: Director
 pronouns: he/him/his
 email: shizhenwei@buaa.edu.cn
 scholar: kNhFWQIAAAAJ
-website: levir.buaa.edu.cn
+website: https://levir.buaa.edu.cn
 beihang: https://shi.buaa.edu.cn/Levir/en/index.htm
 # twitter: 
 # linkedin: 
@@ -30,5 +30,5 @@ Dr. Shi serves as an Editor for IEEE Transactions on Geoscience and Remote Sensi
 
 
 
-His detailed introduction are available [here](/szw)."
+His detailed introduction are available [here](/szw/index.html)."
 ---

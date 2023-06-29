@@ -1,0 +1,14 @@
+@article{PAN2018108,
+title = {MugNet: Deep learning for hyperspectral image classification using limited samples},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {145},
+pages = {108-119},
+year = {2018},
+note = {Deep Learning RS Data},
+issn = {0924-2716},
+doi = {https://doi.org/10.1016/j.isprsjprs.2017.11.003},
+url = {https://www.sciencedirect.com/science/article/pii/S0924271617303416},
+author = {Bin Pan and Zhenwei Shi and Xia Xu},
+keywords = {Hyperspectral image classification, Deep learning, Multi-grained scanning, MugNet},
+abstract = {In recent years, deep learning based methods have attracted broad attention in the field of hyperspectral image classification. However, due to the massive parameters and the complex network structure, deep learning methods may not perform well when only few training samples are available. In this paper, we propose a small-scale data based method, multi-grained network (MugNet), to explore the application of deep learning approaches in hyperspectral image classification. MugNet could be considered as a simplified deep learning model which mainly targets at limited samples based hyperspectral image classification. Three novel strategies are proposed to construct MugNet. First, the spectral relationship among different bands, as well as the spatial correlation within neighboring pixels, are both utilized via a multi-grained scanning approach. The proposed multi-grained scanning strategy could not only extract the joint spectral-spatial information, but also combine different grains’ spectral and spatial relationship. Second, because there are abundant unlabeled pixels available in hyperspectral images, we take full advantage of these samples, and adopt a semi-supervised manner in the process of generating convolution kernels. At last, the MugNet is built upon the basis of a very simple network which does not include many hyperparameters for tuning. The performance of MugNet is evaluated on a popular and two challenging data sets, and comparison experiments with several state-of-the-art hyperspectral image classification methods are revealed.}
+}

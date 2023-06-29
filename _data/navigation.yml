@@ -1,31 +1,31 @@
 - name: Home
-  link: "/"
+  link: "/index.html"
   group: home
 
 - name: Research
-  link: "/research"
+  link: "/research/index.html"
   group: research
 
 - name: Publications
-  link: "/publications"
+  link: "/publications/index.html"
   group: publications
 
 - name: Members
-  link: "/members"
+  link: "/members/index.html"
   group: members
 
 - name: News
-  link: "/news"
+  link: "/news/index.html"
   group: news
 
 - name: Join
-  link: "/join"
+  link: "/join/index.html"
   group: join
 
 - name: Contact
-  link: "/contact"
+  link: "/contact/index.html"
   group: contact
 
 - name: Album
-  link: "/album"
+  link: "/album/index.html"
   group: album

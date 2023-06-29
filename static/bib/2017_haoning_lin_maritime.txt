@@ -1,0 +1,17 @@
+
+@Article{rs9050480,
+AUTHOR = {Lin, Haoning and Shi, Zhenwei and Zou, Zhengxia},
+TITLE = {Maritime Semantic Labeling of Optical Remote Sensing Images with Multi-Scale Fully Convolutional Network},
+JOURNAL = {Remote Sensing},
+VOLUME = {9},
+YEAR = {2017},
+NUMBER = {5},
+ARTICLE-NUMBER = {480},
+URL = {https://www.mdpi.com/2072-4292/9/5/480},
+ISSN = {2072-4292},
+ABSTRACT = {In current remote sensing literature, the problems of sea-land segmentation and ship detection (including in-dock ships) are investigated separately despite the high correlation between them. This inhibits joint optimization and makes the implementation of the methods highly complicated. In this paper, we propose a novel fully convolutional network to accomplish the two tasks simultaneously, in a semantic labeling fashion, i.e., to label every pixel of the image into 3 classes, sea, land and ships. A multi-scale structure for the network is proposed to address the huge scale gap between different classes of targets, i.e., sea/land and ships. Conventional multi-scale structure utilizes shortcuts to connect low level, fine scale feature maps to high level ones to increase the network’s ability to produce finer results. In contrast, our proposed multi-scale structure focuses on increasing the receptive field of the network while maintaining the ability towards fine scale details. The multi-scale convolution network accommodates the huge scale difference between sea-land and ships and provides comprehensive features, and is able to accomplish the tasks in an end-to-end manner that is easy for implementation and feasible for joint optimization. In the network, the input forks into fine-scale and coarse-scale paths, which share the same convolution layers to minimize network parameter increase, and then are joined together to produce the final result. The experiments show that the network tackles the semantic labeling problem with improved performance.},
+DOI = {10.3390/rs9050480}
+}
+
+
+

@@ -1,0 +1,9 @@
+@ARTICLE{7891049,
+  author={Shi, Zhenwei and Zou, Zhengxia},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Can a Machine Generate Humanlike Language Descriptions for a Remote Sensing Image?}, 
+  year={2017},
+  volume={55},
+  number={6},
+  pages={3623-3634},
+  doi={10.1109/TGRS.2017.2677464}}
