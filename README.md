@@ -27,6 +27,6 @@ How to use the website:
 3. bundle exec jekyll serve
 4. download the levir_template.zip from the cms2 management system
 5. unzip the levir_template.zip and rename the folder to levir_temp
-6. rename the index.html to index.jsp in the _site folder
-7. copy the "_site\*" files to the levir_temp\file\_webprj\
-8. zip the levir_temp folder to levir_temp.zip and upload to the cms2 management system
+6. copy the "_site\*" files to the levir_temp\file\_webprj\
+7. zip the levir_temp folder to levir_temp.zip and upload to the cms2 management system
+8. new a index template in the cms2 management system and copy the index.html content to the template
