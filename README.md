@@ -19,3 +19,14 @@ To create a conda environment to locally test and host, the following should suf
     conda activate jekyll
     bundle install
     bundle exec jekyll serve
+
+How to use the website:
+
+1. clone the repository
+2. config the jekyll runtime environment
+3. bundle exec jekyll serve
+4. download the levir_template.zip from the cms2 management system
+5. unzip the levir_template.zip and rename the folder to levir_temp
+6. rename the index.html to index.jsp in the _site folder
+7. copy the "_site\*" files to the levir_temp\file\_webprj\
+8. zip the levir_temp folder to levir_temp.zip and upload to the cms2 management system
