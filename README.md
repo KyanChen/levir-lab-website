@@ -31,4 +31,3 @@ How to use the website:
 7. zip the levir_temp folder to levir_temp.zip and upload to the cms2 management system
 8. new a index template in the cms2 management system and copy the index.html content to the template
 9. change the index.html to index.jsp in index.jsp file
-10. 
