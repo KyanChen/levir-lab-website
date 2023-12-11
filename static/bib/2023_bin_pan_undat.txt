@@ -1,0 +1,9 @@
+@ARTICLE{10248207,
+  author={Duan, Yuexin and Xu, Xia and Li, Tao and Pan, Bin and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={UnDAT: Double-Aware Transformer for Hyperspectral Unmixing},
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-12},
+  doi={10.1109/TGRS.2023.3310155}}

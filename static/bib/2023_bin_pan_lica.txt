@@ -1,0 +1,9 @@
+@ARTICLE{10210622,
+  author={Gao, Zhe and Pan, Bin and Xu, Xia and Li, Tao and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={LiCa: Label-Indicate-Conditional-Alignment Domain Generalization for Pixel-Wise Hyperspectral Imagery Classification},
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-11},
+  doi={10.1109/TGRS.2023.3300688}}

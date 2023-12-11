@@ -1,0 +1,9 @@
+@ARTICLE{10320402,
+  author={Shi, Lukui and Zhao, Ruiyun and Pan, Bin and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Unsupervised Multimodal Remote Sensing Image Registration via Domain Adaptation},
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-11},
+  doi={10.1109/TGRS.2023.3333889}}

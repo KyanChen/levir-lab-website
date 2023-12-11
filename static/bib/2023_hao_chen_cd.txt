@@ -1,0 +1,9 @@
+@ARTICLE{10287990,
+  author={Chen, Hao and Zhang, Haotian and Chen, Keyan and Zhou, Chenyao and Chen, Song and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Continuous Cross-Resolution Remote Sensing Image Change Detection},
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-20},
+  doi={10.1109/TGRS.2023.3325829}}

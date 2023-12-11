@@ -1,0 +1,9 @@
+@ARTICLE{10288503,
+  author={Lin, Chen and Zhu, Zhenfeng and Wang, Shenghui and Shi, Zhenwei and Zhao, Yao},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={CoI2A: Collaborative Inter-domain and Intra-domain Alignments for Multisource Domain Adaptation},
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-8},
+  doi={10.1109/TGRS.2023.3326156}}

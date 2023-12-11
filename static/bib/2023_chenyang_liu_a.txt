@@ -1,0 +1,9 @@
+@ARTICLE{10271701,
+  author={Liu, Chenyang and Zhao, Rui and Chen, Jianqi and Qi, Zipeng and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={A Decoupling Paradigm With Prompt Learning for Remote Sensing Image Change Captioning},
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-18},
+  doi={10.1109/TGRS.2023.3321752}}

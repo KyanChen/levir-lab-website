@@ -1,0 +1,9 @@
+@ARTICLE{10285123,
+  author={Chen, Jianqi and Zhang, Yilan and Zou, Zhengxia and Chen, Keyan and Shi, Zhenwei},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  title={Dense Pixel-to-Pixel Harmonization via Continuous Image Representation},
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCSVT.2023.3324591}}
