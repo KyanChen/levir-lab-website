@@ -3,7 +3,7 @@
     authors: Qiaoying Qu, Bin Pan,Xia Xu,Tao Li and **Zhenwei Shi**
     journal: IEEE Transactions on Image Processing (TIP)
     pub_date: 2023-08-01
-    pdf: /static/pdfs/2023_bin_pan_unmixing.pdf
+    pdf:
     arxiv: 
     code: https://github.com/qffang/UnGUN
     page: 

@@ -3,7 +3,7 @@
     authors: Lukui Shi, Ziyuan Wang, Bin Pan and **Zhenwei Shi**
     journal: IEEE Geoscience and Remote Sensing Letters (GRSL)
     pub_date: 2020-08-04
-    pdf: /static/pdfs/2021_lukui_shi_an.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

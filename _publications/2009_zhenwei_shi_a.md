@@ -3,7 +3,7 @@
     authors: "**Zhenwei Shi**, Zhiguo Jiang, and Fugen Zhou"
     journal: Journal of Computational and Applied Mathematics (JCAM)
     pub_date: 2007-12-08
-    pdf: /static/pdfs/2009_zhenwei_shi_a.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

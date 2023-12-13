@@ -3,7 +3,7 @@
     authors: Zhou Zhang, **Zhenwei Shi**, and Zhenyu An
     journal: Optik - International Journal for Light and Electron Optics (Optik)
     pub_date: 2012-04-29
-    pdf: /static/pdfs/2013_zhou_zhang_hyperspectral.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

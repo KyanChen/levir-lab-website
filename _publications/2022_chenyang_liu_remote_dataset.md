@@ -3,7 +3,7 @@
     authors: Chenyang Liu, Rui Zhao, Hao Chen, Zhengxia Zou, and **Zhenwei Shi**
     journal: IEEE Transactions on Geoscience and Remote Sensing (TGRS)
     pub_date: 2022-11-01
-    pdf: /static/pdfs/2022_chenyang_liu_remote_dataset.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

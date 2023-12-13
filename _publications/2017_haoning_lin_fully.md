@@ -3,7 +3,7 @@
     authors: Haoning Lin, **Zhenwei Shi** and Zhengxia Zou
     journal: IEEE Geoscience and Remote Sensing Letters (GRSL)
     pub_date: 2017-08-02
-    pdf: /static/pdfs/2017_haoning_lin_fully.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

@@ -3,7 +3,7 @@
     authors: Bin Pan, **Zhenwei Shi**, Xia Xu and Yi Yang
     journal: Remote Sensing (RS)
     pub_date: 2017-10-27 
-    pdf: /static/pdfs/2017_bin_pan_hashing.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

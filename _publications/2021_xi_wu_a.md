@@ -3,7 +3,7 @@
     authors: Xi Wu, **Zhenwei Shi** and Zhengxia Zou
     journal: ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS)
     pub_date: 2020-08-27
-    pdf: /static/pdfs/2021_xi_wu_a.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

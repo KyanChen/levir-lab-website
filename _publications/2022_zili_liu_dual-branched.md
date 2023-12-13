@@ -3,7 +3,7 @@
     authors: Zili Liu, Kun Hao, Xiaoyi Geng, Zhengxia Zou and **Zhenwei Shi**
     journal: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
     pub_date: 2022-04-26
-    pdf: /static/pdfs/2022_zili_liu_dual-branched.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

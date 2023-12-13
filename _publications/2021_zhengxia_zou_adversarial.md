@@ -3,7 +3,7 @@
     authors: Zhengxia Zou, Tianyang Shi, **Zhenwei Shi** and Jieping Ye
     journal: IEEE Transactions on Image Processing (TIP)
     pub_date: 2021-01-27
-    pdf: /static/pdfs/2021_zhengxia_zou_adversarial.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

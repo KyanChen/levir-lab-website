@@ -3,7 +3,7 @@
     authors: Tianyang Shi, Qizhi Xu, Zhengxia Zou and **Zhenwei Shi**
     journal: Remote Sensing (RS)
     pub_date: 2018-07-18
-    pdf: /static/pdfs/2018_shi_t_automatic.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

@@ -3,7 +3,7 @@
     authors: Haoning Lin and **Zhenwei Shi**
     journal: Optik - International Journal for Light and Electron Optics (Optik)
     pub_date: 2014-07-15
-    pdf: /static/pdfs/2014_haoning_lin_multi-scale.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

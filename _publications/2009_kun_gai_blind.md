@@ -3,7 +3,7 @@
     authors: Kun Gai, **Zhenwei Shi**, and Changshui Zhang
     journal: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
     pub_date: 2009-06-20
-    pdf: /static/pdfs/2009_kun_gai_blind.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

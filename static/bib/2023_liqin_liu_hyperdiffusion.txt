@@ -1,0 +1,9 @@
+@ARTICLE{10327767,
+  author={Liu, Liqin and Chen, Bowen and Chen, Hao and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Diverse Hyperspectral Remote Sensing Image Synthesis With Diffusion Models},
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-16},
+  doi={10.1109/TGRS.2023.3335975}}

@@ -3,7 +3,7 @@
     authors: Rui Zhao, **Zhenwei Shi**, Zhengxia Zou and Zhou Zhang
     journal: Remote Sensing (RS)
     pub_date: 2019-04-17
-    pdf: /static/pdfs/2019_rui_zhao_ensemble-based.pdf
+    pdf: 
     arxiv: 
     code: https://github.com/ruizhaocv/E_CEM-for-Hyperspectral-Target-Detection
     page: 

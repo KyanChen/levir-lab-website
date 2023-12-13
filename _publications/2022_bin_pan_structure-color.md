@@ -3,7 +3,7 @@
     authors: Bin Pan, Qiaoying Qu, Xia Xu and **Zhenwei Shi**
     journal: IEEE Transactions on Geoscience and Remote Sensing
     pub_date: 2021-12-13
-    pdf: /static/pdfs/2022_bin_pan_structure-color.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

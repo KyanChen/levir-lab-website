@@ -3,7 +3,7 @@
     authors: Xiaofeng Ma, Rui Zhao and **Zhenwei Shi**
     journal: IEEE Geoscience and Remote Sensing Letters (GRSL)
     pub_date: 2020-07-29
-    pdf: /static/pdfs/2021_xiaofeng_ma_multi-scale.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

@@ -3,7 +3,7 @@
     authors: Chen Lin, Zhenfeng Zhu, Shenghui Wang, **Zhenwei Shi** and Yao Zhao
     journal: IEEE Transactions on Geoscience and Remote Sensing (TGRS)
     pub_date: 2023-10-20
-    pdf: /static/pdfs/2023_yao_zhao_col2a.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

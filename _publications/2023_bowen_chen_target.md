@@ -3,7 +3,7 @@
     authors: Bowen Chen, Liqin Liu, Zhengxia Zou and **Zhenwei Shi**
     journal: Remote Sensing (RS)
     pub_date: 2023-05-04
-    pdf: 
+    pdf: /static/pdfs/2023_bowen_chen_target.pdf
     arxiv: 
     code: 
     page: 

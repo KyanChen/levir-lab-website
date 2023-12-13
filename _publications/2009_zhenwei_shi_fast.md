@@ -3,7 +3,7 @@
     authors: "**Zhenwei Shi** and Changshui Zhang"
     journal: Pattern Recognition (PR)
     pub_date: 2008-05-31
-    pdf: /static/pdfs/2009_zhenwei_shi_fast.pdf
+    pdf: /static/pdfs/2008_zhenwei_shi_fast.pdf
     arxiv: 
     code: 
     page: 

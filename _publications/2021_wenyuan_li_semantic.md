@@ -3,7 +3,7 @@
     authors: Wenyuan Li, Hao Chen, and **Zhenwei Shi**
     journal: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
     pub_date: 2021-06-18
-    pdf: /static/pdfs/2021_wenyuan_li_semantic.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

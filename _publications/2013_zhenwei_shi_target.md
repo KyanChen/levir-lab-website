@@ -3,7 +3,7 @@
     authors: "**Zhenwei Shi**, Shuo Yang, and Zhiguo Jiang"
     journal: Optik - International Journal for Light and Electron Optics (Optik)
     pub_date: 2012-09-20
-    pdf: /static/pdfs/2013_zhenwei_shi_target.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

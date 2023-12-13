@@ -3,7 +3,7 @@
     authors: Zhou Zhang and **Zhenwei Shi**
     journal: Neural Computing and Applications
     pub_date: 2012-07-07
-    pdf: /static/pdfs/2013_zhou_zhang_nonnegative.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

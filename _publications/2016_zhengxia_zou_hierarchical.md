@@ -3,7 +3,7 @@
     authors: Zhengxia Zou and **Zhenwei Shi**
     journal: IEEE Transactions on Geoscience and Remote Sensing (TGRS)
     pub_date: 2015-08-03
-    pdf: /static/pdfs/2016_zhengxia_zou_hierarchical.pdf
+    pdf: /static/pdfs/2015_zhengxia_zou_hierarchical.pdf
     arxiv: 
     code: 
     page: 

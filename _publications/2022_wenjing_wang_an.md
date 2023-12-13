@@ -3,7 +3,7 @@
     authors: Wenjing Wang and **Zhenwei Shi**
     journal: IEEE Geoscience and Remote Sensing Letters (GRSL)
     pub_date: 2021-09-27
-    pdf: /static/pdfs/2022_wenjing_wang_an.pdf
+    pdf: /static/pdfs/2021_wenjing_wang_an.pdf
     arxiv:
     code: 
     page: 

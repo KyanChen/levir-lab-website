@@ -3,7 +3,7 @@
     authors: Xiaoyi Geng, Zili Liu and  **Zhenwei Shi**
     journal: Remote Sensing (RS)
     pub_date: 2023-10-09
-    pdf: /static/pdfs/2023_xiaoyi_geng_forecast.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

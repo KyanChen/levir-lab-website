@@ -3,7 +3,7 @@
     authors: Hongjuan Zhang, **Zhenwei Shi**, and Chonghui Guo
     journal: Neurocomputing
     pub_date: 2008-10-27
-    pdf: /static/pdfs/2009_hongjuan_zhang_blind.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

@@ -3,7 +3,7 @@
     authors: Hongjuan Zhang, **Zhenwei Shi**, Chonghui Guo, and Enmin Feng
     journal: Journal of Computational and Applied Mathematics(JCAM)
     pub_date: 2007-11-15
-    pdf: /static/pdfs/2009_hongjuan_zhang_semi-blind.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

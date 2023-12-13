@@ -3,7 +3,7 @@
     authors: Yuexin Duan, Xia Xu, Tao Li, Bin Pan and  **Zhenwei Shi**
     journal: IEEE Transactions on Geoscience and Remote Sensing (TGRS)
     pub_date: 2023-09-12
-    pdf: /static/pdfs/2023_bin_pan_undat.pdf
+    pdf:
     arxiv: 
     code: 
     page: 

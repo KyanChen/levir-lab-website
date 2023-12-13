@@ -3,7 +3,7 @@
     authors: Xia Xu, Bin Pan, Zongqing Chen, **Zhenwei Shi** and Tao Li
     journal: IEEE Transactions on Geoscience and Remote Sensing (TGRS)
     pub_date: 2020-08-26
-    pdf: /static/pdfs/2021_xia_xu_simultaneously.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

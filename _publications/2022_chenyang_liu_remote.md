@@ -3,7 +3,7 @@
     authors: Chenyang Liu, Rui Zhao and **Zhenwei Shi**
     journal: IEEE Geoscience and Remote Sensing Letters (GRSL)
     pub_date: 2022-02-10
-    pdf: /static/pdfs/2022_chenyang_liu_remote.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

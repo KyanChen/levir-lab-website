@@ -3,7 +3,7 @@
     authors: Hao Chen, Haotian Zhang, Keyan Chen, Chenyao Zhou, Song Chen and  **Zhenwei Shi**
     journal: IEEE Transactions on Geoscience and Remote Sensing (TGRS)
     pub_date: 2023-10-19
-    pdf: /static/pdfs/2023_hao_chen_cd.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

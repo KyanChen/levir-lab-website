@@ -3,7 +3,7 @@
     authors: Zhe Gao, Bin Pan,Xia Xu,Tao Li and **Zhenwei Shi**
     journal: IEEE Transactions on Geoscience and Remote Sensing (TGRS)
     pub_date: 2023-08-07
-    pdf: /static/pdfs/2023_bin_pan_lica.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

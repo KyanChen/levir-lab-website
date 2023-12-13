@@ -3,7 +3,7 @@
     authors: "**Zhenwei Shi**, Liu Liu, Xinya Zhai, and Zhiguo Jiang"
     journal: Neural Computing and Applications
     pub_date: 2012-09-25
-    pdf: /static/pdfs/2013_zhenwei_shi_efficient.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

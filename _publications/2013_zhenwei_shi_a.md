@@ -3,7 +3,7 @@
     authors: "**Zhenwei Shi**, Shuo Yang, and Zhen Qin"
     journal: Optics & Laser Technology
     pub_date: 2012-04-25
-    pdf: /static/pdfs/2013_zhenwei_shi_a.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 

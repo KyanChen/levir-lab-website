@@ -3,7 +3,7 @@
     authors: Dan Zhang, Fei Wang, **Zhenwei Shi**, and Changshui Zhang
     journal: Pattern Recognition (PR)
     pub_date: 2008-08-31
-    pdf: /static/pdfs/2010_dan_zhang_interactive.pdf
+    pdf: 
     arxiv: 
     code: 
     page: 
