@@ -1,0 +1,11 @@
+@ARTICLE{10418153,
+  author={Xie, Jiajun and Pan, Bin and Xu, Xia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={MiSSNet: Memory-Inspired Semantic Segmentation Augmentation Network for Class-Incremental Learning in Remote Sensing Images},
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-13},
+  keywords={Semantics;Semantic segmentation;Feature extraction;Task analysis;Training;Correlation;Sensors;Incremental learning;remote sensing images;semantic segmentation},
+  doi={10.1109/TGRS.2024.3360701}
+  }

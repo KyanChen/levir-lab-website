@@ -1,0 +1,10 @@
+@ARTICLE{10409216,
+  author={Chen, Keyan and Liu, Chenyang and Chen, Hao and Zhang, Haotian and Li, Wenyuan and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation Based on Visual Foundation Model},
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-17},
+  keywords={Instance segmentation;Image segmentation;Remote sensing;Task analysis;Sensors;Decoding;Detectors;Foundation model;instance segmentation;prompt learning;remote sensing images;segment anything model (SAM)},
+  doi={10.1109/TGRS.2024.3356074}}

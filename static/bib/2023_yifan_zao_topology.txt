@@ -1,0 +1,10 @@
+@ARTICLE{10364769,
+  author={Zao, Yifan and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Topology-Guided Road Graph Extraction From Remote Sensing Images},
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-14},
+  keywords={Roads;Image segmentation;Remote sensing;Feature extraction;Topology;Task analysis;Image edge detection;Remote sensing;road graph extraction;road topology;vectorized representation},
+  doi={10.1109/TGRS.2023.3344150}}

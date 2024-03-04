@@ -1,0 +1,10 @@
+@ARTICLE{10401022,
+  author={Ding, Haidong and Xie, Fengying and Qiu, Linwei and Zhang, Xiaozhe and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Robust Haze and Thin Cloud Removal via Conditional Variational Autoencoders},
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-16},
+  keywords={Clouds;Image restoration;Atmospheric modeling;Uncertainty;Remote sensing;Neural networks;Training;Conditional variational autoencoders (CVAEs);remote-sensing image dehazing;thin cloud removal},
+  doi={10.1109/TGRS.2024.3349779}}

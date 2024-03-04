@@ -1,0 +1,10 @@
+@ARTICLE{10360855,
+  author={Li, Wentao and Zhao, Danpei and Yuan, Bo and Gao, Yue and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={PETDet: Proposal Enhancement for Two-Stage Fine-Grained Object Detection},
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-14},
+  keywords={Proposals;Object detection;Detectors;Feature extraction;Task analysis;Pipelines;Multitasking;Aerial images;fine-grained object detection (FGOD);oriented object detection;two-stage detector},
+  doi={10.1109/TGRS.2023.3343453}}

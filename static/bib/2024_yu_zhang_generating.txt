@@ -1,0 +1,10 @@
+@ARTICLE{10379828,
+  author={Zhang, Yu and Chen, Jianqi and Liu, Liqin and Chen, Keyan and Shi, Zhenwei and Zou, Zhengxia},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Generating Imperceptible and Cross-Resolution Remote Sensing Adversarial Examples Based on Implicit Neural Representations},
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-15},
+  keywords={Remote sensing;Visualization;Perturbation methods;Image resolution;Measurement;Visual perception;Task analysis;Adversarial examples (AEs);cross-resolution;implicit neural representation (INR);remote sensing;visual harmony},
+  doi={10.1109/TGRS.2023.3349373}}

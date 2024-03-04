@@ -1,0 +1,10 @@
+@ARTICLE{10378705,
+  author={Tian, Feng and Lei, Sen and Zhou, Yingbo and Cheng, Jialin and Liang, Guohao and Zou, Zhengxia and Li, Heng-Chao and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={HiReNet: Hierarchical-Relation Network for Few-Shot Remote Sensing Image Scene Classification},
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-10},
+  keywords={Remote sensing;Feature extraction;Scene classification;Task analysis;Measurement;Metalearning;Adaptation models;Convolutional neural networks (CNNs);few-shot learning;hierarchical relation;remote sensing images},
+  doi={10.1109/TGRS.2023.3348464}}
